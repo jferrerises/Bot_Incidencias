@@ -1,0 +1,170 @@
+{
+"FUERZA MAYOR":{
+"Terceros - Vandalismo":{
+"OBLIGATORIO":["Anexo A","Fotografias Certificadas","Formulario de testimonio del personal de la distribuidora (Anexo C)","Anexo B"],
+"OPCIONAL":["Exposicion civil ante la Policia (Denuncia)","Copia de causa judicial certificada por secretario del juzgado","Formulario con testigos de los hechos","Reporte o informes de Noticias",
+"Grabaciones de Voz o video","Boleta de Citacion por daños a la propiedad o constancia de denuncia (Colision)","Formulario de testimonio de personal contratista que atiende el evento (Testigo Ocular)","Anexo de Justificacion de eventos"],
+"AMERITE":["Acta Notarial de constatacion"]
+},
+"Terceros - Objetos extranos en infraestructura":{
+"OBLIGATORIO":["Anexo A","Fotografias Certificadas","Formulario de testimonio del personal de la distribuidora (Anexo C)","Anexo B"],
+"OPCIONAL":["Exposicion civil ante la Policia (Denuncia)","Copia de causa judicial certificada por secretario del juzgado","Formulario con testigos de los hechos","Reporte o informes de Noticias",
+"Grabaciones de Voz o video","Formulario de testimonio de personal contratista que atiende el evento (Testigo Ocular)","Anexo de Justificacion de eventos"],
+"AMERITE":["Acta Notarial de constatacion"]
+},
+"Terceros - Alambres/Conductores":{
+"OBLIGATORIO":["Anexo A","Fotografias Certificadas","Formulario de testimonio del personal de la distribuidora (Anexo C)","Anexo B"],
+"OPCIONAL":["Exposicion civil ante la Policia (Denuncia)","Copia de causa judicial certificada por secretario del juzgado","Formulario con testigos de los hechos","Reporte o informes de Noticias",
+"Grabaciones de Voz o video","Boleta de Citacion por daños a la propiedad o constancia de denuncia (Colision)","Formulario de testimonio de personal contratista que atiende el evento (Testigo Ocular)","Anexo de Justificacion de eventos"],
+"AMERITE":["Acta Notarial de constatacion"]
+},
+"Terceros - Cables Telefonicos/ Television por Cable/Otros Servicios":{
+"OBLIGATORIO":["Anexo A","Fotografias Certificadas","Formulario de testimonio del personal de la distribuidora (Anexo C)","Anexo B"],
+"OPCIONAL":["Exposicion civil ante la Policia (Denuncia)","Copia de causa judicial certificada por secretario del juzgado","Formulario con testigos de los hechos","Reporte o informes de Noticias",
+"Grabaciones de Voz o video","Boleta de Citacion por daños a la propiedad o constancia de denuncia (Colision)","Formulario de testimonio de personal contratista que atiende el evento (Testigo Ocular)","Anexo de Justificacion de eventos"],
+"AMERITE":["Acta Notarial de constatacion"]
+},
+"Terceros-Trabajos en la via Publica con modificacion o traslado de las instalaciones o infraestructura":{
+"OBLIGATORIO":["Anexo A","Fotografias Certificadas","Formulario de testimonio del personal de la distribuidora (Anexo C)","Anexo B"],
+"OPCIONAL":["Exposicion civil ante la Policia (Denuncia)","Copia de causa judicial certificada por secretario del juzgado","Formulario con testigos de los hechos",
+"Grabaciones de Voz o video","Boleta de Citacion por daños a la propiedad o constancia de denuncia (Colision)","Formulario de testimonio de personal contratista que atiende el evento (Testigo Ocular)","Anexo de Justificacion de eventos"],
+"AMERITE":["Acta Notarial de constatacion"]
+},
+"Terceros-Embestidas colisiones con daño a infraestructuras":{
+"OBLIGATORIO":["Anexo A","Fotografias Certificadas","Anexo B"],
+"OPCIONAL":["Exposicion civil ante la Policia (Denuncia)","Copia de causa judicial certificada por secretario del juzgado","Formulario con testigos de los hechos","Reporte o informes de Noticias",
+"Grabaciones de Voz o video","Boleta de Citacion por daños a la propiedad o constancia de denuncia (Colision)","Anexo de Justificacion de eventos"],
+"AMERITE":["Acta Notarial de constatacion","Formulario de testimonio del personal de la distribuidora (Anexo C)","Formulario de testimonio de personal contratista que atiende el evento (Testigo Ocular)"]
+},
+"Terceros- Poda de arboles no vinculada a la empresa":{
+"OBLIGATORIO":["Anexo A","Fotografias Certificadas","Anexo B"],
+"OPCIONAL":["Formulario de testimonio del personal de la distribuidora (Anexo C)","Exposicion civil ante la Policia (Denuncia)","Copia de causa judicial certificada por secretario del juzgado",
+"Formulario de testimonio de personal contratista que atiende el evento (Testigo Ocular)","Formulario con testigos de los hechos",
+"Grabaciones de Voz o video","Anexo de Justificacion de eventos"],
+"AMERITE":["Acta Notarial de constatacion"]
+},
+"incendio":{
+"OBLIGATORIO":["Anexo A","Fotografias Certificadas","Anexo B"],
+"OPCIONAL":["Exposicion civil ante la Policia (Denuncia)","Copia de causa judicial certificada por secretario del juzgado","Formulario con testigos de los hechos","Reporte o informes de Noticias",
+"Grabaciones de Voz o video","Anexo de Justificacion de eventos"],
+"AMERITE":["Acta Notarial de constatacion","Formulario de testimonio del personal de la distribuidora (Anexo C)","Formulario de testimonio de personal contratista que atiende el evento (Testigo Ocular)"]
+},
+"solicitud por el cliente":{
+"OBLIGATORIO":["Anexo A","Formulario de testimonio del personal de la distribuidora (Anexo C)","Nota de solicitud de suspensión del suministro","Anexo B"],
+"OPCIONAL":["Formulario de testimonio de personal contratista que atiende el evento (Testigo Ocular)"],
+"AMERITE":[]
+},
+"Autorizado/Ordenado por ASEP o autoridad competente":{
+"OBLIGATORIO":["Anexo A","Formulario de testimonio del personal de la distribuidora (Anexo C)","Anexo B"],
+"OPCIONAL":["Fotografias Certificadas","Copia de causa judicial certificada por secretario del juzgado","Formulario de testimonio de personal contratista que atiende el evento (Testigo Ocular)",
+"Formulario con testigos de los hechos","Grabaciones de Voz o video","Anexo de Justificacion de eventos"],
+"AMERITE":[]
+},
+"Afectacion instalacines subterraneras- Obstruccion de desague":{
+"OBLIGATORIO":["Anexo A","Fotografias Certificadas","Formulario de testimonio del personal de la distribuidora (Anexo C)","Anexo B"],
+"OPCIONAL":["Exposicion civil ante la Policia (Denuncia)","Copia de causa judicial certificada por secretario del juzgado","Formulario con testigos de los hechos",
+"Grabaciones de Voz o video","Anexo de Justificacion de eventos",
+"Formulario de testimonio de personal contratista que atiende el evento (Testigo Ocular)"],
+"AMERITE":["Acta Notarial de constatacion"]
+},
+"Afectacion instalacines subterraneras- filtración por rotura de desague de agua":{
+"OBLIGATORIO":["Anexo A","Fotografias Certificadas","Formulario de testimonio del personal de la distribuidora (Anexo C)","Anexo B"],
+"OPCIONAL":["Exposicion civil ante la Policia (Denuncia)","Copia de causa judicial certificada por secretario del juzgado","Formulario con testigos de los hechos",
+"Grabaciones de Voz o video","Anexo de Justificacion de eventos",
+"Formulario de testimonio de personal contratista que atiende el evento (Testigo Ocular)"],
+"AMERITE":[]
+},
+"Generacion, trasmision, CND":{
+"OBLIGATORIO":["Anexo A","Formulario de testimonio del personal de la distribuidora (Anexo C)",
+"Informe Preliminar/Final del CND  u Otro Externo","Anexo B"],
+"OPCIONAL":["Fotografias Certificadas","Formulario de testimonio de personal contratista que atiende el evento (Testigo Ocular)","Grabaciones de Voz o video",
+"Anexo de Justificacion de eventos"],
+"AMERITE":[]
+},
+"Inaccesibilidad a las instalaciones del cliente":{
+"OBLIGATORIO":["Anexo A","Fotografias Certificadas","Formulario de testimonio del personal de la distribuidora (Anexo C)","Anexo B"],
+"OPCIONAL":["Exposicion civil ante la Policia (Denuncia)","Copia de causa judicial certificada por secretario del juzgado","Formulario con testigos de los hechos","Reporte o informes de Noticias",
+"Grabaciones de Voz o video","Anexo de Justificacion de eventos",
+"Formulario de testimonio de personal contratista que atiende el evento (Testigo Ocular)"],
+"AMERITE":["Acta Notarial de constatacion"]
+},
+"Otros":{
+"OBLIGATORIO":["Anexo A","Fotografias Certificadas","Formulario de testimonio del personal de la distribuidora (Anexo C)","Anexo B"],
+"OPCIONAL":["Exposicion civil ante la Policia (Denuncia)","Copia de causa judicial certificada por secretario del juzgado","Formulario con testigos de los hechos","Reporte o informes de Noticias",
+"Grabaciones de Voz o video","Boleta de Citacion por daños a la propiedad o constancia de denuncia (Colision)","Anexo de Justificacion de eventos","Informe Preliminar/Final del CND  u Otro Externo",
+"Formulario de testimonio de personal contratista que atiende el evento (Testigo Ocular)"],
+"AMERITE":["Acta Notarial de constatacion","Imagen meterorologica o captura de patalla de reportes de hidromet de ETESA"]
+}
+},
+"CASO FORTUITO":{
+"Afectacion en instalacion por caidas de arboles":{
+"OBLIGATORIO":["Anexo A","Fotografias Certificadas","Formulario de testimonio del personal de la distribuidora (Anexo C)","Anexo B"],
+"OPCIONAL":["Formulario con testigos de los hechos","Boleta de Citacion por daños a la propiedad o constancia de denuncia (Colision)","Anexo de Justificacion de eventos",
+"Formulario de testimonio de personal contratista que atiende el evento (Testigo Ocular)"],
+"AMERITE":["Acta Notarial de constatacion","Imagen meterorologica o captura de patalla de reportes de hidromet de ETESA"]
+},
+"Condiciones climaticas externas- Tornado":{
+"OBLIGATORIO":["Anexo A","Fotografias Certificadas","Anexo B"],
+"OPCIONAL":["Formulario con testigos de los hechos","Reporte o informes de Noticias",
+"Grabaciones de Voz o video","Anexo de Justificacion de eventos"],
+"AMERITE":["Acta Notarial de constatacion","Formulario de testimonio de personal contratista que atiende el evento (Testigo Ocular)",
+"Imagen meterorologica o captura de patalla de reportes de hidromet de ETESA"]
+},
+"Condiciones climaticas externas- Vientos":{
+"OBLIGATORIO":["Anexo A","Fotografias Certificadas","Formulario de testimonio del personal de la distribuidora (Anexo C)","Anexo B"],
+"OPCIONAL":["Formulario con testigos de los hechos","Reporte o informes de Noticias",
+"Grabaciones de Voz o video","Anexo de Justificacion de eventos",
+"Formulario de testimonio de personal contratista que atiende el evento (Testigo Ocular)"],
+"AMERITE":["Acta Notarial de constatacion","Imagen meterorologica o captura de patalla de reportes de hidromet de ETESA"]
+},
+"Condiciones climaticas externas- Inundaciones":{
+"OBLIGATORIO":["Anexo A","Fotografias Certificadas","Formulario de testimonio del personal de la distribuidora (Anexo C)","Anexo B"],
+"OPCIONAL":["Formulario con testigos de los hechos","Reporte o informes de Noticias",
+"Grabaciones de Voz o video","Anexo de Justificacion de eventos",
+"Formulario de testimonio de personal contratista que atiende el evento (Testigo Ocular)"],
+"AMERITE":["Acta Notarial de constatacion","Imagen meterorologica o captura de patalla de reportes de hidromet de ETESA"]
+},
+"Condiciones climaticas externas- Temperaturas":{
+"OBLIGATORIO":["Anexo A","Fotografias Certificadas","Formulario de testimonio del personal de la distribuidora (Anexo C)","Anexo B"],
+"OPCIONAL":["Formulario con testigos de los hechos","Reporte o informes de Noticias",
+"Grabaciones de Voz o video","Anexo de Justificacion de eventos",
+"Formulario de testimonio de personal contratista que atiende el evento (Testigo Ocular)"],
+"AMERITE":["Acta Notarial de constatacion","Imagen meterorologica o captura de patalla de reportes de hidromet de ETESA"]
+},
+"Condiciones climaticas externas- Descargas atmosfericas":{
+"OBLIGATORIO":["Anexo A","Fotografias Certificadas","Formulario de testimonio del personal de la distribuidora (Anexo C)","Anexo B"],
+"OPCIONAL":["Formulario con testigos de los hechos","Reporte o informes de Noticias",
+"Grabaciones de Voz o video","Anexo de Justificacion de eventos",
+"Formulario de testimonio de personal contratista que atiende el evento (Testigo Ocular)"],
+"AMERITE":["Acta Notarial de constatacion","Imagen meterorologica o captura de patalla de reportes de hidromet de ETESA"]
+},
+"Animales":{
+"OBLIGATORIO":["Anexo A","Fotografias Certificadas","Formulario de testimonio del personal de la distribuidora (Anexo C)","Anexo B"],
+"OPCIONAL":["Formulario con testigos de los hechos",
+"Anexo de Justificacion de eventos",
+"Formulario de testimonio de personal contratista que atiende el evento (Testigo Ocular)"],
+"AMERITE":["Acta Notarial de constatacion"]
+},
+"Condiciones climaticas externas- Deslizamiento  de tierra o desplazamiento de otros materiales":{
+"OBLIGATORIO":["Anexo A","Fotografias Certificadas","Formulario de testimonio del personal de la distribuidora (Anexo C)","Anexo B"],
+"OPCIONAL":["Formulario con testigos de los hechos","Reporte o informes de Noticias",
+"Grabaciones de Voz o video","Anexo de Justificacion de eventos","Imagen meterorologica o captura de patalla de reportes de hidromet de ETESA",
+"Formulario de testimonio de personal contratista que atiende el evento (Testigo Ocular)"],
+"AMERITE":["Acta Notarial de constatacion"]
+},
+"Condiciones climaticas externas- Terremoto":{
+"OBLIGATORIO":["Anexo A","Fotografias Certificadas","Formulario de testimonio del personal de la distribuidora (Anexo C)","Anexo B"],
+"OPCIONAL":["Formulario con testigos de los hechos","Reporte o informes de Noticias",
+"Grabaciones de Voz o video","Anexo de Justificacion de eventos","Imagen meterorologica o captura de patalla de reportes de hidromet de ETESA",
+"Formulario de testimonio de personal contratista que atiende el evento (Testigo Ocular)"],
+"AMERITE":["Acta Notarial de constatacion"]
+},
+"Otros":{
+    "OBLIGATORIO":["Anexo A","Fotografias Certificadas","Formulario de testimonio del personal de la distribuidora (Anexo C)","Anexo B"],
+    "OPCIONAL":["Exposicion civil ante la Policia (Denuncia)","Copia de causa judicial certificada por secretario del juzgado","Formulario con testigos de los hechos","Reporte o informes de Noticias",
+    "Grabaciones de Voz o video","Boleta de Citacion por daños a la propiedad o constancia de denuncia (Colision)",
+"Formulario de testimonio de personal contratista que atiende el evento (Testigo Ocular)","Anexo de Justificacion de eventos","Informe Preliminar/Final del CND  u Otro Externo"],
+    "AMERITE":["Acta Notarial de constatacion","Imagen meterorologica o captura de patalla de reportes de hidromet de ETESA"]
+    }
+}
+}

@@ -1,0 +1,28 @@
+{
+
+        "Oeste":{
+            "ambito":"PANAMA OESTE",
+            "analista":"Jesus Franco",
+            "email":"jfranco@ises.com.co",
+    "id_redmine":"447"
+        },
+        "Metro":{
+            "ambito":"PANAMA METRO",
+            "analista":"Jesus Franco",
+            "email":"jfranco@ises.com.co",
+    "id_redmine":"447"
+        },
+        "Interior":{
+            "ambito":"COCLE VER - HERRERA L.S.",
+            "analista":"MARÍA CONCEPCIÓN SIMANCAS RODRIGUEZ",
+            "email":"msimancas@ises.com.co",
+    "id_redmine":"401"
+        },
+        "Chiriquí":{
+            "ambito":"CHIRIQUI",
+            "analista":"Pamela Andrea de la Hoz",
+            "email":"pdelahoz@ises.com.co",
+        "id_redmine":"405"
+        }
+
+}

@@ -1,0 +1,18 @@
+{"EDEMET":[{
+    "nombre":"Angi Castillo",
+    "id_redmine":"204",
+    "zonas":["Oeste","Metro"]
+},
+{
+    "nombre":"MARÍA CONCEPCIÓN SIMANCAS RODRIGUEZ",
+    "id_redmine":"401",
+    "zonas":["EDEMET","Interior"]
+}
+],
+"EDECHI":[
+    {
+        "nombre":"ISAAC DAVID CARRASQUILLA PALACIO",
+        "id_redmine":"400",
+        "zonas":["EDECHI","Chiriquí"]
+    }
+]}

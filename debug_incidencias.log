@@ -1,0 +1,1023 @@
+2023-04-26 09:39:08,376 - INCIDENCIAS - INFO - INICIO BOT-INCIDENCIAS
+2023-04-26 10:41:32,947 - INCIDENCIAS - INFO - INICIO BOT-INCIDENCIAS
+2023-04-26 10:41:48,113 - INCIDENCIAS - ERROR - Excepción de ejecución en run_filtro : [Errno 2] No such file or directory: 'C:\\Users\\USER\\Documents\\INCIDENCIAS_BOT_V2\\filtro\\informe\\INFORME.xls'
+2023-04-26 10:43:30,040 - INCIDENCIAS - INFO - INICIO BOT-INCIDENCIAS
+2023-04-26 10:43:42,323 - INCIDENCIAS - ERROR - Excepción de ejecución en get_df_excel : [Errno 2] No such file or directory: 'C:\\Users\\USER\\Documents\\INCIDENCIAS_BOT_V2\\filtro\\informe\\INFORME.xls'
+2023-04-26 10:43:42,339 - INCIDENCIAS - ERROR - Excepción de ejecución en run_filtro : 'NoneType' object is not subscriptable
+2023-04-26 10:48:05,677 - INCIDENCIAS - INFO - INICIO BOT-INCIDENCIAS
+2023-04-26 10:48:19,883 - INCIDENCIAS - ERROR - Excepción de ejecución en get_df_excel : [Errno 2] No such file or directory: 'C:\\Users\\USER\\Documents\\INCIDENCIAS_BOT_V2\\filtro\\informe\\INFORME.xls'
+2023-04-26 10:48:19,883 - INCIDENCIAS - ERROR - Excepción de ejecución en run_filtro : [Errno 2] No such file or directory: 'C:\\Users\\USER\\Documents\\INCIDENCIAS_BOT_V2\\filtro\\informe\\INFORME.xls'
+2023-04-26 10:48:53,244 - INCIDENCIAS - INFO - INICIO BOT-INCIDENCIAS
+2023-04-26 10:49:08,690 - INCIDENCIAS - ERROR - Excepción de ejecución en get_df_excel : [Errno 2] No such file or directory: 'C:\\Users\\USER\\Documents\\INCIDENCIAS_BOT_V2\\filtro\\informe\\INFORME.xls'
+2023-04-26 10:49:08,690 - INCIDENCIAS - ERROR - Excepción de ejecución en run_filtro : [Errno 2] No such file or directory: 'C:\\Users\\USER\\Documents\\INCIDENCIAS_BOT_V2\\filtro\\informe\\INFORME.xls'
+2023-04-26 17:06:04,486 - INCIDENCIAS - INFO - INICIO BOT-INCIDENCIAS
+2023-04-26 17:06:20,360 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2023-04-26 18:51:15,664 - INCIDENCIAS - INFO - INICIO BOT-INCIDENCIAS
+2023-04-26 18:53:30,637 - INCIDENCIAS - INFO - INICIO BOT-INCIDENCIAS
+2023-04-27 17:09:00,302 - INCIDENCIAS - INFO - INICIO BOT-INCIDENCIAS
+2023-04-27 17:09:26,614 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2023-04-27 18:51:53,472 - INCIDENCIAS - INFO - INICIO BOT-INCIDENCIAS
+2023-04-27 18:53:00,552 - INCIDENCIAS - INFO - INICIO BOT-INCIDENCIAS
+2023-05-01 09:48:00,574 - INCIDENCIAS - INFO - INICIO BOT-INCIDENCIAS
+2023-05-01 09:48:17,349 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2023-05-01 12:14:06,467 - INCIDENCIAS - INFO - INICIO BOT-INCIDENCIAS
+2023-05-03 17:35:25,767 - INCIDENCIAS - INFO - INICIO BOT-INCIDENCIAS
+2023-05-03 17:36:05,830 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2023-05-03 17:47:57,050 - INCIDENCIAS - INFO - INICIO BOT-INCIDENCIAS
+2023-05-03 17:47:59,255 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2023-05-03 17:50:00,860 - INCIDENCIAS - INFO - INICIO BOT-INCIDENCIAS
+2023-05-03 17:50:02,967 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2023-05-03 17:51:08,559 - INCIDENCIAS - INFO - INICIO BOT-INCIDENCIAS
+2023-05-03 17:51:10,378 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2023-05-03 17:51:47,472 - INCIDENCIAS - INFO - INICIO BOT-INCIDENCIAS
+2023-05-03 17:51:49,294 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2023-05-03 17:52:20,600 - INCIDENCIAS - INFO - INICIO BOT-INCIDENCIAS
+2023-05-03 17:52:21,766 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2023-05-03 17:55:04,450 - INCIDENCIAS - INFO - INICIO BOT-INCIDENCIAS
+2023-05-03 17:55:05,397 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2023-05-03 17:58:54,287 - INCIDENCIAS - INFO - INICIO BOT-INCIDENCIAS
+2023-05-03 17:58:55,286 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2023-05-03 18:00:13,601 - INCIDENCIAS - INFO - INICIO BOT-INCIDENCIAS
+2023-05-03 18:02:30,917 - INCIDENCIAS - INFO - INICIO BOT-INCIDENCIAS
+2023-05-03 18:02:31,903 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2023-05-03 18:03:41,908 - INCIDENCIAS - INFO - INICIO BOT-INCIDENCIAS
+2023-05-03 18:03:56,283 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2023-05-03 18:09:49,136 - INCIDENCIAS - INFO - INICIO BOT-INCIDENCIAS
+2023-05-03 18:10:04,421 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2023-05-03 18:10:50,305 - INCIDENCIAS - INFO - INICIO BOT-INCIDENCIAS
+2023-05-03 18:10:51,426 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2023-05-26 09:31:46,383 - INCIDENCIAS - INFO - INICIO BOT-INCIDENCIAS
+2023-05-26 09:31:47,207 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2023-05-26 09:33:18,762 - INCIDENCIAS - INFO - INICIO BOT-INCIDENCIAS
+2023-05-26 09:33:19,526 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2023-05-26 09:34:23,273 - INCIDENCIAS - INFO - INICIO BOT-INCIDENCIAS
+2023-05-26 09:34:23,973 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2023-05-26 09:36:07,705 - INCIDENCIAS - INFO - INICIO BOT-INCIDENCIAS
+2023-05-26 09:36:08,325 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2023-05-26 09:41:15,024 - INCIDENCIAS - INFO - INICIO BOT-INCIDENCIAS
+2023-05-26 09:41:15,743 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2023-05-26 09:43:29,932 - INCIDENCIAS - INFO - INICIO BOT-INCIDENCIAS
+2023-05-26 09:43:30,510 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2023-05-26 09:47:14,974 - INCIDENCIAS - INFO - INICIO BOT-INCIDENCIAS
+2023-05-26 09:47:15,651 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2023-05-26 09:48:41,562 - INCIDENCIAS - INFO - INICIO BOT-INCIDENCIAS
+2023-05-26 09:48:42,122 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2023-05-26 10:34:12,525 - INCIDENCIAS - INFO - INICIO BOT-INCIDENCIAS
+2023-05-26 10:34:13,134 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2023-05-26 10:39:34,923 - INCIDENCIAS - INFO - INICIO BOT-INCIDENCIAS
+2023-05-26 10:39:35,507 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2023-09-12 16:48:34,906 - INCIDENCIAS - INFO - INICIO BOT-INCIDENCIAS
+2023-09-12 16:48:35,909 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2023-09-12 18:11:10,194 - INCIDENCIAS - ERROR - Incidencia NO PROCESADA - NO ENCONTRADA EN INFORME: #986695
+2023-09-12 18:13:07,679 - INCIDENCIAS - ERROR - Incidencia NO PROCESADA - NO ENCONTRADA EN INFORME: #986886
+2023-09-13 17:56:17,053 - INCIDENCIAS - INFO - INICIO BOT-INCIDENCIAS
+2023-09-13 17:56:18,052 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2023-09-14 17:53:53,603 - INCIDENCIAS - INFO - INICIO BOT-INCIDENCIAS
+2023-09-14 17:53:54,527 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2023-09-14 17:54:07,867 - INCIDENCIAS - INFO - INICIO BOT-INCIDENCIAS
+2023-09-14 17:54:08,735 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2023-09-14 19:33:34,827 - INCIDENCIAS - ERROR - Incidencia NO PROCESADA - NO ENCONTRADA EN INFORME: #987232
+2023-09-14 19:33:35,558 - INCIDENCIAS - ERROR - Incidencia NO PROCESADA - NO ENCONTRADA EN INFORME: #987234
+2023-09-15 15:58:00,333 - INCIDENCIAS - INFO - INICIO BOT-INCIDENCIAS
+2023-09-15 15:58:01,124 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2023-09-15 15:58:12,455 - INCIDENCIAS - INFO - INICIO BOT-INCIDENCIAS
+2023-09-15 15:58:13,234 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2023-09-18 09:32:44,248 - INCIDENCIAS - INFO - INICIO BOT-INCIDENCIAS
+2023-09-18 09:32:44,757 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2023-09-18 09:32:47,770 - INCIDENCIAS - INFO - Email a msimancas@ises.com.co Zona: COCLE VER - HERRERA L.S. Fecha: 18/09/2023 enviado exitosamente
+2023-09-18 18:36:32,062 - INCIDENCIAS - INFO - INICIO BOT-INCIDENCIAS
+2023-09-18 18:36:32,943 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2023-09-18 18:46:43,986 - INCIDENCIAS - INFO - INICIO BOT-INCIDENCIAS
+2023-09-18 18:46:44,740 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2023-09-18 20:25:33,443 - INCIDENCIAS - ERROR - Incidencia NO PROCESADA - NO ENCONTRADA EN INFORME: #987973
+2023-09-18 20:25:37,410 - INCIDENCIAS - ERROR - Incidencia NO PROCESADA - NO ENCONTRADA EN INFORME: #987981
+2023-09-19 18:25:43,093 - INCIDENCIAS - INFO - INICIO BOT-INCIDENCIAS
+2023-09-19 18:25:43,870 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2023-09-19 19:53:58,982 - INCIDENCIAS - ERROR - Incidencia NO PROCESADA - NO ENCONTRADA EN INFORME: #987970
+2023-09-19 19:55:50,963 - INCIDENCIAS - ERROR - Incidencia NO PROCESADA - NO ENCONTRADA EN INFORME: #988135
+2023-09-19 19:55:55,103 - INCIDENCIAS - ERROR - Incidencia NO PROCESADA - NO ENCONTRADA EN INFORME: #988150
+2023-09-19 19:55:55,819 - INCIDENCIAS - ERROR - Incidencia NO PROCESADA - NO ENCONTRADA EN INFORME: #988153
+2023-09-20 17:43:45,462 - INCIDENCIAS - INFO - INICIO BOT-INCIDENCIAS
+2023-09-20 17:43:46,283 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2023-09-20 21:13:00,613 - INCIDENCIAS - ERROR - Incidencia NO PROCESADA - NO ENCONTRADA EN INFORME: #988350
+2023-09-20 21:13:01,349 - INCIDENCIAS - ERROR - Incidencia NO PROCESADA - NO ENCONTRADA EN INFORME: #988361
+2023-09-25 10:41:21,280 - INCIDENCIAS - INFO - INICIO BOT-INCIDENCIAS
+2023-09-25 10:41:21,741 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2023-09-25 10:45:14,083 - INCIDENCIAS - INFO - INICIO BOT-INCIDENCIAS
+2023-09-25 10:45:14,451 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2023-09-25 11:47:59,394 - INCIDENCIAS - INFO - INICIO BOT-INCIDENCIAS
+2023-09-25 11:47:59,784 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2023-09-25 11:48:02,797 - INCIDENCIAS - INFO - Email a msimancas@ises.com.co Zona: COCLE VER - HERRERA L.S. Fecha: 25/09/2023 enviado exitosamente
+2023-09-25 11:48:10,066 - INCIDENCIAS - INFO - Email a icarraquilla@ises.com.co Zona: CHIRIQUI Fecha: 25/09/2023 enviado exitosamente
+2023-09-25 11:56:40,774 - INCIDENCIAS - INFO - INICIO BOT-INCIDENCIAS
+2023-09-25 11:56:41,394 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2023-09-25 11:56:44,096 - INCIDENCIAS - INFO - Email a yhernandez1@ises.com.co Zona: PANAMA OESTE Fecha: 25/09/2023 enviado exitosamente
+2023-09-25 11:56:52,307 - INCIDENCIAS - INFO - Email a yhernandez1@ises.com.co Zona: PANAMA METRO Fecha: 25/09/2023 enviado exitosamente
+2023-09-25 11:56:59,308 - INCIDENCIAS - INFO - Email a msimancas@ises.com.co Zona: COCLE VER - HERRERA L.S. Fecha: 25/09/2023 enviado exitosamente
+2023-09-25 11:57:06,616 - INCIDENCIAS - INFO - Email a icarraquilla@ises.com.co Zona: CHIRIQUI Fecha: 25/09/2023 enviado exitosamente
+2023-09-25 14:27:46,091 - INCIDENCIAS - ERROR - Incidencia NO PROCESADA - NO ENCONTRADA EN INFORME: #988842
+2023-09-25 14:27:46,803 - INCIDENCIAS - ERROR - Incidencia NO PROCESADA - NO ENCONTRADA EN INFORME: #988844
+2023-09-26 10:58:53,804 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2023-09-26 10:58:56,262 - INCIDENCIAS - INFO - Email a yhernandez1@ises.com.co Zona: PANAMA OESTE Fecha: 26/09/2023 enviado exitosamente
+2023-09-26 10:59:02,909 - INCIDENCIAS - INFO - Email a msimancas@ises.com.co Zona: CENTRAL Fecha: 26/09/2023 enviado exitosamente
+2023-09-26 10:59:09,580 - INCIDENCIAS - INFO - Email a ljimenezj@ises.com.co Zona: AZUERO Fecha: 26/09/2023 enviado exitosamente
+2023-09-26 10:59:16,273 - INCIDENCIAS - INFO - Email a icarraquilla@ises.com.co Zona: CHIRIQUI Fecha: 26/09/2023 enviado exitosamente
+2023-10-20 09:43:32,426 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2023-10-20 09:43:32
+2023-10-20 09:43:33,321 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2023-10-20 11:01:20,597 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2023-10-20 11:01:20
+2023-10-20 11:01:21,204 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2023-10-20 14:01:54,913 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2023-10-20 14:01:54
+2023-10-20 14:01:55,595 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2023-10-23 08:06:13,018 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2023-10-23 08:06:13
+2023-10-23 08:06:13,130 - INCIDENCIAS - ERROR - Excepción de ejecución en get_df_excel : 'Duración RS'
+2023-10-23 08:06:13,130 - INCIDENCIAS - ERROR - Excepción de ejecución en filter_report : 'Duración RS'
+2023-10-23 08:06:13,146 - INCIDENCIAS - ERROR - Excepción de ejecución en run_filtro : 'Duración RS'
+2023-10-23 08:06:13,146 - INCIDENCIAS - ERROR - Excepción de ejecución en <module> : 'Duración RS'
+2023-10-23 08:08:57,942 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2023-10-23 08:08:57
+2023-10-23 08:08:58,155 - INCIDENCIAS - ERROR - Excepción de ejecución en get_df_excel : 'Duración RS'
+2023-10-23 08:08:58,155 - INCIDENCIAS - ERROR - Excepción de ejecución en filter_report : 'Duración RS'
+2023-10-23 08:08:58,155 - INCIDENCIAS - ERROR - Excepción de ejecución en run_filtro : 'Duración RS'
+2023-10-23 08:08:58,155 - INCIDENCIAS - ERROR - Excepción de ejecución en <module> : 'Duración RS'
+2023-10-23 08:09:09,155 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2023-10-23 08:09:09
+2023-10-23 08:09:09,342 - INCIDENCIAS - ERROR - Excepción de ejecución en get_df_excel : 'Duración RS'
+2023-10-23 08:09:09,342 - INCIDENCIAS - ERROR - Excepción de ejecución en filter_report : 'Duración RS'
+2023-10-23 08:09:09,342 - INCIDENCIAS - ERROR - Excepción de ejecución en run_filtro : 'Duración RS'
+2023-10-23 08:09:09,342 - INCIDENCIAS - ERROR - Excepción de ejecución en <module> : 'Duración RS'
+2023-10-23 08:09:48,190 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2023-10-23 08:09:48
+2023-10-23 08:09:48,382 - INCIDENCIAS - ERROR - Excepción de ejecución en get_df_excel : 'Duración RS'
+2023-10-23 08:09:48,382 - INCIDENCIAS - ERROR - Excepción de ejecución en filter_report : 'Duración RS'
+2023-10-23 08:09:48,382 - INCIDENCIAS - ERROR - Excepción de ejecución en run_filtro : 'Duración RS'
+2023-10-23 08:09:48,382 - INCIDENCIAS - ERROR - Excepción de ejecución en <module> : 'Duración RS'
+2023-10-23 08:12:39,842 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2023-10-23 08:12:39
+2023-10-23 08:12:40,674 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2023-10-23 08:12:45,066 - INCIDENCIAS - ERROR - Excepción de ejecución en files_processing : 'Descripción'
+2023-10-23 08:12:45,066 - INCIDENCIAS - ERROR - Excepción de ejecución en <module> : 'Descripción'
+2023-10-23 08:18:51,881 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2023-10-23 08:18:51
+2023-10-23 08:18:52,654 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2023-10-23 08:18:57,154 - INCIDENCIAS - ERROR - Excepción de ejecución en files_processing : 'Descripción'
+2023-10-23 08:18:57,154 - INCIDENCIAS - ERROR - Excepción de ejecución en <module> : 'Descripción'
+2023-10-23 10:41:27,514 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2023-10-23 10:41:27
+2023-10-23 10:41:28,360 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2023-10-23 16:23:36,747 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2023-10-23 16:23:36
+2023-10-23 16:23:37,606 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2023-10-24 15:34:03,609 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2023-10-24 15:34:03
+2023-10-24 15:34:04,853 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2023-10-25 07:57:58,455 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2023-10-25 07:57:58
+2023-10-25 07:57:59,237 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2023-10-26 14:48:35,090 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2023-10-26 14:48:35
+2023-10-26 14:48:36,010 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2023-10-30 15:30:25,774 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2023-10-30 15:30:25
+2023-10-30 15:30:26,803 - INCIDENCIAS - ERROR - Excepción de ejecución en filter_report : argument of type 'int' is not iterable
+2023-10-30 15:30:26,803 - INCIDENCIAS - ERROR - Excepción de ejecución en run_filtro : argument of type 'int' is not iterable
+2023-10-30 15:30:26,803 - INCIDENCIAS - ERROR - Excepción de ejecución en <module> : argument of type 'int' is not iterable
+2023-10-30 15:30:41,379 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2023-10-30 15:30:41
+2023-10-30 15:30:42,270 - INCIDENCIAS - ERROR - Excepción de ejecución en filter_report : argument of type 'int' is not iterable
+2023-10-30 15:30:42,270 - INCIDENCIAS - ERROR - Excepción de ejecución en run_filtro : argument of type 'int' is not iterable
+2023-10-30 15:30:42,270 - INCIDENCIAS - ERROR - Excepción de ejecución en <module> : argument of type 'int' is not iterable
+2023-10-30 15:32:56,909 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2023-10-30 15:32:56
+2023-10-30 15:32:57,821 - INCIDENCIAS - ERROR - Excepción de ejecución en filter_report : argument of type 'int' is not iterable
+2023-10-30 15:32:57,821 - INCIDENCIAS - ERROR - Excepción de ejecución en run_filtro : argument of type 'int' is not iterable
+2023-10-30 15:32:57,821 - INCIDENCIAS - ERROR - Excepción de ejecución en <module> : argument of type 'int' is not iterable
+2023-10-30 15:37:40,422 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2023-10-30 15:37:40
+2023-10-30 15:37:41,141 - INCIDENCIAS - ERROR - Excepción de ejecución en filter_report : argument of type 'int' is not iterable
+2023-10-30 15:37:41,141 - INCIDENCIAS - ERROR - Excepción de ejecución en run_filtro : argument of type 'int' is not iterable
+2023-10-30 15:37:41,141 - INCIDENCIAS - ERROR - Excepción de ejecución en <module> : argument of type 'int' is not iterable
+2023-10-30 15:40:55,380 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2023-10-30 15:40:55
+2023-10-30 15:40:56,153 - INCIDENCIAS - ERROR - Excepción de ejecución en filter_report : argument of type 'int' is not iterable
+2023-10-30 15:40:56,153 - INCIDENCIAS - ERROR - Excepción de ejecución en run_filtro : argument of type 'int' is not iterable
+2023-10-30 15:40:56,153 - INCIDENCIAS - ERROR - Excepción de ejecución en <module> : argument of type 'int' is not iterable
+2023-10-30 16:44:40,349 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2023-10-30 16:44:40
+2023-10-30 16:44:41,110 - INCIDENCIAS - ERROR - Excepción de ejecución en filter_report : argument of type 'int' is not iterable
+2023-10-30 16:44:41,110 - INCIDENCIAS - ERROR - Excepción de ejecución en run_filtro : argument of type 'int' is not iterable
+2023-10-30 16:44:41,110 - INCIDENCIAS - ERROR - Excepción de ejecución en <module> : argument of type 'int' is not iterable
+2023-10-30 16:49:30,648 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2023-10-30 16:49:30
+2023-10-30 16:49:35,367 - INCIDENCIAS - ERROR - Excepción de ejecución en filter_report : argument of type 'int' is not iterable
+2023-10-30 16:49:35,367 - INCIDENCIAS - ERROR - Excepción de ejecución en run_filtro : argument of type 'int' is not iterable
+2023-10-30 16:49:35,367 - INCIDENCIAS - ERROR - Excepción de ejecución en <module> : argument of type 'int' is not iterable
+2023-10-30 17:00:25,865 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2023-10-30 17:00:25
+2023-10-30 17:00:26,785 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2023-10-30 17:01:43,740 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2023-10-30 17:01:43
+2023-10-30 17:01:44,888 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2023-10-31 11:20:23,126 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2023-10-31 11:20:23
+2023-10-31 11:20:23,698 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2023-10-31 11:33:26,445 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2023-10-31 11:33:26
+2023-10-31 11:33:26,940 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2023-11-02 11:24:37,776 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2023-11-02 11:24:37
+2023-11-02 11:24:38,159 - INCIDENCIAS - ERROR - Excepción de ejecución en get_df_excel : 'Duración RS'
+2023-11-02 11:24:38,159 - INCIDENCIAS - ERROR - Excepción de ejecución en filter_report : 'Duración RS'
+2023-11-02 11:24:38,159 - INCIDENCIAS - ERROR - Excepción de ejecución en run_filtro : 'Duración RS'
+2023-11-02 11:24:38,159 - INCIDENCIAS - ERROR - Excepción de ejecución en <module> : 'Duración RS'
+2023-11-02 11:27:41,185 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2023-11-02 11:27:41
+2023-11-02 11:27:41,217 - INCIDENCIAS - ERROR - Excepción de ejecución en get_df_excel : [Errno 2] No such file or directory: 'D:\\\\ises-dds\\\\APLICACIONES_ISES\\\\Incidencias_CF_FM\\\\filtro\\\\CARGA_INFORME\\INFORME.xls'
+2023-11-02 11:27:41,217 - INCIDENCIAS - ERROR - Excepción de ejecución en filter_report : [Errno 2] No such file or directory: 'D:\\\\ises-dds\\\\APLICACIONES_ISES\\\\Incidencias_CF_FM\\\\filtro\\\\CARGA_INFORME\\INFORME.xls'
+2023-11-02 11:27:41,217 - INCIDENCIAS - ERROR - Excepción de ejecución en run_filtro : [Errno 2] No such file or directory: 'D:\\\\ises-dds\\\\APLICACIONES_ISES\\\\Incidencias_CF_FM\\\\filtro\\\\CARGA_INFORME\\INFORME.xls'
+2023-11-02 11:27:41,217 - INCIDENCIAS - ERROR - Excepción de ejecución en <module> : [Errno 2] No such file or directory: 'D:\\\\ises-dds\\\\APLICACIONES_ISES\\\\Incidencias_CF_FM\\\\filtro\\\\CARGA_INFORME\\INFORME.xls'
+2023-11-02 11:28:34,954 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2023-11-02 11:28:34
+2023-11-02 11:28:34,998 - INCIDENCIAS - ERROR - Excepción de ejecución en get_df_excel : [Errno 2] No such file or directory: 'D:\\\\ises-dds\\\\APLICACIONES_ISES\\\\Incidencias_CF_FM\\\\filtro\\\\CARGA_INFORME\\INFORME.xls'
+2023-11-02 11:28:34,998 - INCIDENCIAS - ERROR - Excepción de ejecución en filter_report : [Errno 2] No such file or directory: 'D:\\\\ises-dds\\\\APLICACIONES_ISES\\\\Incidencias_CF_FM\\\\filtro\\\\CARGA_INFORME\\INFORME.xls'
+2023-11-02 11:28:34,998 - INCIDENCIAS - ERROR - Excepción de ejecución en run_filtro : [Errno 2] No such file or directory: 'D:\\\\ises-dds\\\\APLICACIONES_ISES\\\\Incidencias_CF_FM\\\\filtro\\\\CARGA_INFORME\\INFORME.xls'
+2023-11-02 11:28:34,998 - INCIDENCIAS - ERROR - Excepción de ejecución en <module> : [Errno 2] No such file or directory: 'D:\\\\ises-dds\\\\APLICACIONES_ISES\\\\Incidencias_CF_FM\\\\filtro\\\\CARGA_INFORME\\INFORME.xls'
+2023-11-02 11:30:14,938 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2023-11-02 11:30:14
+2023-11-02 11:30:15,141 - INCIDENCIAS - ERROR - Excepción de ejecución en get_df_excel : 'Duración RS'
+2023-11-02 11:30:15,141 - INCIDENCIAS - ERROR - Excepción de ejecución en filter_report : 'Duración RS'
+2023-11-02 11:30:15,141 - INCIDENCIAS - ERROR - Excepción de ejecución en run_filtro : 'Duración RS'
+2023-11-02 11:30:15,141 - INCIDENCIAS - ERROR - Excepción de ejecución en <module> : 'Duración RS'
+2023-11-02 11:33:37,247 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2023-11-02 11:33:37
+2023-11-02 11:33:38,229 - INCIDENCIAS - ERROR - Excepción de ejecución en filter_report : argument of type 'int' is not iterable
+2023-11-02 11:33:38,229 - INCIDENCIAS - ERROR - Excepción de ejecución en run_filtro : argument of type 'int' is not iterable
+2023-11-02 11:33:38,229 - INCIDENCIAS - ERROR - Excepción de ejecución en <module> : argument of type 'int' is not iterable
+2023-11-02 11:35:04,515 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2023-11-02 11:35:04
+2023-11-02 11:35:05,343 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2023-11-02 15:00:47,816 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2023-11-02 15:00:47
+2023-11-02 15:00:48,486 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2023-11-03 11:50:07,224 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2023-11-03 11:50:07
+2023-11-03 11:50:08,143 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2023-11-07 06:33:08,763 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2023-11-07 06:33:08
+2023-11-07 06:33:09,701 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2023-11-08 14:43:05,827 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2023-11-08 14:43:05
+2023-11-08 14:43:06,718 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2023-11-09 14:38:05,260 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2023-11-09 14:38:05
+2023-11-09 14:38:06,104 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2023-11-10 08:37:08,954 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2023-11-10 08:37:08
+2023-11-10 08:37:09,253 - INCIDENCIAS - ERROR - Excepción de ejecución en get_df_excel : 'Duración RS'
+2023-11-10 08:37:09,253 - INCIDENCIAS - ERROR - Excepción de ejecución en filter_report : 'Duración RS'
+2023-11-10 08:37:09,253 - INCIDENCIAS - ERROR - Excepción de ejecución en run_filtro : 'Duración RS'
+2023-11-10 08:37:09,253 - INCIDENCIAS - ERROR - Excepción de ejecución en <module> : 'Duración RS'
+2023-11-10 08:37:17,221 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2023-11-10 08:37:17
+2023-11-10 08:37:17,539 - INCIDENCIAS - ERROR - Excepción de ejecución en get_df_excel : 'Duración RS'
+2023-11-10 08:37:17,539 - INCIDENCIAS - ERROR - Excepción de ejecución en filter_report : 'Duración RS'
+2023-11-10 08:37:17,539 - INCIDENCIAS - ERROR - Excepción de ejecución en run_filtro : 'Duración RS'
+2023-11-10 08:37:17,539 - INCIDENCIAS - ERROR - Excepción de ejecución en <module> : 'Duración RS'
+2023-11-10 08:46:57,699 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2023-11-10 08:46:57
+2023-11-10 08:46:57,877 - INCIDENCIAS - ERROR - Excepción de ejecución en get_df_excel : 'Duración RS'
+2023-11-10 08:46:57,877 - INCIDENCIAS - ERROR - Excepción de ejecución en filter_report : 'Duración RS'
+2023-11-10 08:46:57,877 - INCIDENCIAS - ERROR - Excepción de ejecución en run_filtro : 'Duración RS'
+2023-11-10 08:46:57,877 - INCIDENCIAS - ERROR - Excepción de ejecución en <module> : 'Duración RS'
+2023-11-10 08:48:04,541 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2023-11-10 08:48:04
+2023-11-10 08:48:04,752 - INCIDENCIAS - ERROR - Excepción de ejecución en get_df_excel : 'Duración RS'
+2023-11-10 08:48:04,752 - INCIDENCIAS - ERROR - Excepción de ejecución en filter_report : 'Duración RS'
+2023-11-10 08:48:04,752 - INCIDENCIAS - ERROR - Excepción de ejecución en run_filtro : 'Duración RS'
+2023-11-10 08:48:04,752 - INCIDENCIAS - ERROR - Excepción de ejecución en <module> : 'Duración RS'
+2023-11-10 08:53:02,628 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2023-11-10 08:53:02
+2023-11-10 08:53:03,356 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2023-11-13 08:23:41,158 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2023-11-13 08:23:41
+2023-11-13 08:23:42,159 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2023-11-14 09:23:55,852 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2023-11-14 09:23:55
+2023-11-14 09:23:56,788 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2023-11-14 15:29:06,524 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2023-11-14 15:29:06
+2023-11-14 15:29:07,621 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2023-11-15 14:03:18,237 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2023-11-15 14:03:18
+2023-11-15 14:03:19,143 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2023-11-16 15:39:40,923 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2023-11-16 15:39:40
+2023-11-16 15:39:41,607 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2023-11-16 15:48:54,222 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2023-11-16 15:48:54
+2023-11-16 15:48:55,111 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2023-11-16 16:42:42,329 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2023-11-16 16:42:42
+2023-11-16 16:42:42,807 - INCIDENCIAS - ERROR - Excepción de ejecución en run_filtro : 'Zona'
+2023-11-16 16:42:42,807 - INCIDENCIAS - ERROR - Excepción de ejecución en <module> : 'Zona'
+2023-11-16 16:45:34,689 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2023-11-16 16:45:34
+2023-11-16 16:45:35,196 - INCIDENCIAS - ERROR - Excepción de ejecución en run_filtro : 'Zona'
+2023-11-16 16:45:35,196 - INCIDENCIAS - ERROR - Excepción de ejecución en <module> : 'Zona'
+2023-11-16 16:45:59,213 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2023-11-16 16:45:59
+2023-11-16 16:45:59,708 - INCIDENCIAS - ERROR - Excepción de ejecución en run_filtro : 'Zona'
+2023-11-16 16:45:59,708 - INCIDENCIAS - ERROR - Excepción de ejecución en <module> : 'Zona'
+2023-11-16 16:54:29,881 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2023-11-16 16:54:29
+2023-11-16 16:54:30,313 - INCIDENCIAS - ERROR - Excepción de ejecución en run_filtro : 'Zona'
+2023-11-16 16:54:30,313 - INCIDENCIAS - ERROR - Excepción de ejecución en <module> : 'Zona'
+2023-11-16 16:54:40,741 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2023-11-16 16:54:40
+2023-11-16 16:54:41,209 - INCIDENCIAS - ERROR - Excepción de ejecución en run_filtro : 'Zona'
+2023-11-16 16:54:41,209 - INCIDENCIAS - ERROR - Excepción de ejecución en <module> : 'Zona'
+2023-11-16 16:55:51,222 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2023-11-16 16:55:51
+2023-11-16 16:55:51,781 - INCIDENCIAS - ERROR - Excepción de ejecución en run_filtro : 'Zona'
+2023-11-16 16:55:51,781 - INCIDENCIAS - ERROR - Excepción de ejecución en <module> : 'Zona'
+2023-11-16 17:00:26,055 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2023-11-16 17:00:26
+2023-11-16 17:00:26,789 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2023-11-16 17:07:52,754 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2023-11-16 17:07:52
+2023-11-21 10:43:53,651 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2023-11-21 10:43:53
+2023-11-21 10:46:45,152 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2023-11-21 10:46:45
+2023-11-21 10:46:46,089 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2023-11-23 09:11:54,909 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2023-11-23 09:11:54
+2023-11-23 09:11:55,136 - INCIDENCIAS - ERROR - Excepción de ejecución en get_df_excel : 'Duración RS'
+2023-11-23 09:11:55,136 - INCIDENCIAS - ERROR - Excepción de ejecución en filter_report : 'Duración RS'
+2023-11-23 09:11:55,136 - INCIDENCIAS - ERROR - Excepción de ejecución en run_filtro : 'Duración RS'
+2023-11-23 09:11:55,136 - INCIDENCIAS - ERROR - Excepción de ejecución en <module> : 'Duración RS'
+2023-11-23 09:12:27,033 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2023-11-23 09:12:27
+2023-11-23 09:12:27,272 - INCIDENCIAS - ERROR - Excepción de ejecución en get_df_excel : 'Duración RS'
+2023-11-23 09:12:27,272 - INCIDENCIAS - ERROR - Excepción de ejecución en filter_report : 'Duración RS'
+2023-11-23 09:12:27,272 - INCIDENCIAS - ERROR - Excepción de ejecución en run_filtro : 'Duración RS'
+2023-11-23 09:12:27,272 - INCIDENCIAS - ERROR - Excepción de ejecución en <module> : 'Duración RS'
+2023-11-23 09:15:26,698 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2023-11-23 09:15:26
+2023-11-23 09:15:26,930 - INCIDENCIAS - ERROR - Excepción de ejecución en get_df_excel : 'Duración RS'
+2023-11-23 09:15:26,930 - INCIDENCIAS - ERROR - Excepción de ejecución en filter_report : 'Duración RS'
+2023-11-23 09:15:26,930 - INCIDENCIAS - ERROR - Excepción de ejecución en run_filtro : 'Duración RS'
+2023-11-23 09:15:26,930 - INCIDENCIAS - ERROR - Excepción de ejecución en <module> : 'Duración RS'
+2023-11-23 09:16:54,214 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2023-11-23 09:16:54
+2023-11-23 09:16:54,994 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2023-11-27 09:26:58,398 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2023-11-27 09:26:58
+2023-11-27 09:26:59,240 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2023-11-27 10:48:21,302 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2023-11-27 10:48:21
+2023-11-27 10:48:21,764 - INCIDENCIAS - ERROR - Excepción de ejecución en run_filtro : 'Zona'
+2023-11-27 10:48:21,764 - INCIDENCIAS - ERROR - Excepción de ejecución en <module> : 'Zona'
+2023-11-27 10:51:55,009 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2023-11-27 10:51:55
+2023-11-27 10:51:55,454 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2023-11-27 10:52:50,379 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2023-11-27 10:52:50
+2023-11-27 10:54:11,659 - INCIDENCIAS - ERROR - Excepción de ejecución en files_processing : string indices must be integers
+2023-11-27 10:54:11,659 - INCIDENCIAS - ERROR - Excepción de ejecución en <module> : string indices must be integers
+2023-11-27 11:23:11,100 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2023-11-27 11:23:11
+2023-11-27 11:23:11,513 - INCIDENCIAS - ERROR - Excepción de ejecución en run_filtro : 'Zona'
+2023-11-27 11:23:11,513 - INCIDENCIAS - ERROR - Excepción de ejecución en <module> : 'Zona'
+2023-11-27 11:29:50,726 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2023-11-27 11:29:50
+2023-11-27 11:29:51,183 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2023-11-27 11:31:27,821 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2023-11-27 11:31:27
+2023-11-27 11:31:28,250 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2023-11-27 11:31:51,419 - INCIDENCIAS - ERROR - Excepción de ejecución en files_processing : string indices must be integers
+2023-11-27 11:31:51,430 - INCIDENCIAS - ERROR - Excepción de ejecución en <module> : string indices must be integers
+2023-11-27 12:13:43,468 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2023-11-27 12:13:43
+2023-11-27 12:13:43,912 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2023-11-27 12:14:52,495 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2023-11-27 12:14:52
+2023-11-27 12:15:04,288 - INCIDENCIAS - ERROR - Excepción de ejecución en db_trazabilidad : 'uploads'
+2023-11-27 12:15:04,288 - INCIDENCIAS - ERROR - Excepción de ejecución en files_processing : string indices must be integers
+2023-11-27 12:15:04,289 - INCIDENCIAS - ERROR - Excepción de ejecución en <module> : string indices must be integers
+2023-11-27 12:39:50,709 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2023-11-27 12:39:50
+2023-11-27 12:39:51,109 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2023-11-27 12:40:51,474 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2023-11-27 12:40:51
+2023-11-27 12:41:02,928 - INCIDENCIAS - ERROR - Excepción de ejecución en files_processing : string indices must be integers
+2023-11-27 12:41:02,928 - INCIDENCIAS - ERROR - Excepción de ejecución en <module> : string indices must be integers
+2023-11-27 15:04:09,817 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2023-11-27 15:04:09
+2023-11-27 15:04:10,325 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2023-11-29 09:35:59,543 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2023-11-29 09:35:59
+2023-11-29 09:36:00,173 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2023-11-29 11:33:55,258 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2023-11-29 11:33:55
+2023-11-29 11:33:55,784 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2023-12-04 14:15:20,188 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2023-12-04 14:15:20
+2023-12-04 14:15:21,641 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2023-12-04 19:12:33,555 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2023-12-04 19:12:33
+2023-12-04 19:12:34,283 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2023-12-06 09:40:48,896 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2023-12-06 09:40:48
+2023-12-06 09:40:49,680 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2023-12-12 11:15:59,692 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2023-12-12 11:15:59
+2023-12-12 11:16:00,953 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2023-12-14 08:54:03,375 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2023-12-14 08:54:03
+2023-12-14 08:54:04,880 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2023-12-14 10:30:17,408 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2023-12-14 10:30:17
+2023-12-14 10:30:17,979 - INCIDENCIAS - ERROR - Excepción de ejecución en run_filtro : 'Zona'
+2023-12-14 10:30:17,979 - INCIDENCIAS - ERROR - Excepción de ejecución en <module> : 'Zona'
+2023-12-15 08:52:31,197 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2023-12-15 08:52:31
+2023-12-15 08:52:32,274 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2023-12-15 15:01:18,494 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2023-12-15 15:01:18
+2023-12-15 15:01:19,159 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2023-12-18 11:25:02,031 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2023-12-18 11:25:02
+2023-12-18 11:25:02,221 - INCIDENCIAS - ERROR - Excepción de ejecución en get_df_excel : [Errno 2] No such file or directory: 'D:\\\\ises-dds\\\\APLICACIONES_ISES\\\\Incidencias_CF_FM\\\\filtro\\\\CARGA_INFORME\\INFORME.xls'
+2023-12-18 11:25:02,221 - INCIDENCIAS - ERROR - Excepción de ejecución en filter_report : [Errno 2] No such file or directory: 'D:\\\\ises-dds\\\\APLICACIONES_ISES\\\\Incidencias_CF_FM\\\\filtro\\\\CARGA_INFORME\\INFORME.xls'
+2023-12-18 11:25:02,221 - INCIDENCIAS - ERROR - Excepción de ejecución en run_filtro : [Errno 2] No such file or directory: 'D:\\\\ises-dds\\\\APLICACIONES_ISES\\\\Incidencias_CF_FM\\\\filtro\\\\CARGA_INFORME\\INFORME.xls'
+2023-12-18 11:25:02,221 - INCIDENCIAS - ERROR - Excepción de ejecución en <module> : [Errno 2] No such file or directory: 'D:\\\\ises-dds\\\\APLICACIONES_ISES\\\\Incidencias_CF_FM\\\\filtro\\\\CARGA_INFORME\\INFORME.xls'
+2023-12-18 11:25:50,358 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2023-12-18 11:25:50
+2023-12-18 11:25:50,396 - INCIDENCIAS - ERROR - Excepción de ejecución en get_df_excel : [Errno 2] No such file or directory: 'D:\\\\ises-dds\\\\APLICACIONES_ISES\\\\Incidencias_CF_FM\\\\filtro\\\\CARGA_INFORME\\INFORME.xls'
+2023-12-18 11:25:50,396 - INCIDENCIAS - ERROR - Excepción de ejecución en filter_report : [Errno 2] No such file or directory: 'D:\\\\ises-dds\\\\APLICACIONES_ISES\\\\Incidencias_CF_FM\\\\filtro\\\\CARGA_INFORME\\INFORME.xls'
+2023-12-18 11:25:50,396 - INCIDENCIAS - ERROR - Excepción de ejecución en run_filtro : [Errno 2] No such file or directory: 'D:\\\\ises-dds\\\\APLICACIONES_ISES\\\\Incidencias_CF_FM\\\\filtro\\\\CARGA_INFORME\\INFORME.xls'
+2023-12-18 11:25:50,396 - INCIDENCIAS - ERROR - Excepción de ejecución en <module> : [Errno 2] No such file or directory: 'D:\\\\ises-dds\\\\APLICACIONES_ISES\\\\Incidencias_CF_FM\\\\filtro\\\\CARGA_INFORME\\INFORME.xls'
+2023-12-18 11:35:43,721 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2023-12-18 11:35:43
+2023-12-18 11:35:44,372 - INCIDENCIAS - ERROR - Excepción de ejecución en filter_report : '<' not supported between instances of 'datetime.datetime' and 'str'
+2023-12-18 11:35:44,372 - INCIDENCIAS - ERROR - Excepción de ejecución en run_filtro : '<' not supported between instances of 'datetime.datetime' and 'str'
+2023-12-18 11:35:44,372 - INCIDENCIAS - ERROR - Excepción de ejecución en <module> : '<' not supported between instances of 'datetime.datetime' and 'str'
+2023-12-18 11:36:04,481 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2023-12-18 11:36:04
+2023-12-18 11:36:05,013 - INCIDENCIAS - ERROR - Excepción de ejecución en filter_report : '<' not supported between instances of 'datetime.datetime' and 'str'
+2023-12-18 11:36:05,013 - INCIDENCIAS - ERROR - Excepción de ejecución en run_filtro : '<' not supported between instances of 'datetime.datetime' and 'str'
+2023-12-18 11:36:05,013 - INCIDENCIAS - ERROR - Excepción de ejecución en <module> : '<' not supported between instances of 'datetime.datetime' and 'str'
+2023-12-18 11:39:32,867 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2023-12-18 11:39:32
+2023-12-18 11:39:33,356 - INCIDENCIAS - ERROR - Excepción de ejecución en filter_report : '<' not supported between instances of 'datetime.datetime' and 'str'
+2023-12-18 11:39:33,358 - INCIDENCIAS - ERROR - Excepción de ejecución en run_filtro : '<' not supported between instances of 'datetime.datetime' and 'str'
+2023-12-18 11:39:33,358 - INCIDENCIAS - ERROR - Excepción de ejecución en <module> : '<' not supported between instances of 'datetime.datetime' and 'str'
+2023-12-18 12:04:08,455 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2023-12-18 12:04:08
+2023-12-18 12:04:09,091 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2023-12-18 12:11:14,243 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2023-12-18 12:11:14
+2023-12-20 08:14:14,082 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2023-12-20 08:14:14
+2023-12-20 10:03:42,473 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2023-12-20 10:03:42
+2023-12-20 10:03:43,188 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2023-12-20 10:04:38,106 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2023-12-20 10:04:38
+2023-12-20 10:04:38,742 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2023-12-21 10:19:17,557 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2023-12-21 10:19:17
+2023-12-21 10:19:18,602 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2023-12-22 09:51:39,717 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2023-12-22 09:51:39
+2023-12-22 09:51:40,515 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2023-12-26 09:57:08,867 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2023-12-26 09:57:08
+2023-12-26 09:57:10,267 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2023-12-28 08:21:41,275 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2023-12-28 08:21:41
+2023-12-28 08:21:42,629 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2023-12-29 08:18:05,878 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2023-12-29 08:18:05
+2023-12-29 08:18:06,677 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2023-12-30 09:11:46,436 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2023-12-30 09:11:46
+2023-12-30 09:11:47,293 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-01-03 07:45:30,526 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-01-03 07:45:30
+2024-01-03 07:45:31,747 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-01-04 07:44:40,167 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-01-04 07:44:40
+2024-01-04 07:44:41,074 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-01-05 07:52:09,869 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-01-05 07:52:09
+2024-01-05 07:52:10,996 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-01-10 07:36:51,268 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-01-10 07:36:51
+2024-01-10 07:36:52,764 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-01-11 08:52:26,523 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-01-11 08:52:26
+2024-01-11 08:52:27,701 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-01-12 07:53:05,005 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-01-12 07:53:05
+2024-01-12 07:53:05,893 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-01-18 11:20:04,654 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-01-18 11:20:04
+2024-01-18 11:20:05,905 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-01-20 06:47:57,947 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-01-20 06:47:57
+2024-01-20 06:47:58,695 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-01-23 06:58:54,854 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-01-23 06:58:54
+2024-01-23 06:58:55,730 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-01-26 14:04:28,369 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-01-26 14:04:28
+2024-01-26 14:04:28,396 - INCIDENCIAS - ERROR - Excepción de ejecución en get_df_excel : [Errno 2] No such file or directory: 'D:\\\\ises-dds\\\\APLICACIONES_ISES\\\\Incidencias_CF_FM\\\\filtro\\\\CARGA_INFORME\\INFORME.xls'
+2024-01-26 14:04:28,396 - INCIDENCIAS - ERROR - Excepción de ejecución en filter_report : [Errno 2] No such file or directory: 'D:\\\\ises-dds\\\\APLICACIONES_ISES\\\\Incidencias_CF_FM\\\\filtro\\\\CARGA_INFORME\\INFORME.xls'
+2024-01-26 14:04:28,396 - INCIDENCIAS - ERROR - Excepción de ejecución en run_filtro : [Errno 2] No such file or directory: 'D:\\\\ises-dds\\\\APLICACIONES_ISES\\\\Incidencias_CF_FM\\\\filtro\\\\CARGA_INFORME\\INFORME.xls'
+2024-01-26 14:04:28,396 - INCIDENCIAS - ERROR - Excepción de ejecución en <module> : [Errno 2] No such file or directory: 'D:\\\\ises-dds\\\\APLICACIONES_ISES\\\\Incidencias_CF_FM\\\\filtro\\\\CARGA_INFORME\\INFORME.xls'
+2024-01-26 14:07:02,271 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-01-26 14:07:02
+2024-01-26 14:07:03,111 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-01-26 15:27:17,807 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-01-26 15:27:17
+2024-01-29 09:56:28,972 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-01-29 09:56:28
+2024-01-29 09:56:29,716 - INCIDENCIAS - ERROR - Excepción de ejecución en run_filtro : 'Zona'
+2024-01-29 09:56:29,716 - INCIDENCIAS - ERROR - Excepción de ejecución en <module> : 'Zona'
+2024-01-29 10:03:44,110 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-01-29 10:03:44
+2024-01-29 10:03:44,332 - INCIDENCIAS - ERROR - Excepción de ejecución en run_filtro : 'Zona'
+2024-01-29 10:03:44,332 - INCIDENCIAS - ERROR - Excepción de ejecución en <module> : 'Zona'
+2024-01-29 10:48:09,181 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-01-29 10:48:09
+2024-01-29 10:48:09,410 - INCIDENCIAS - ERROR - Excepción de ejecución en run_filtro : 'Zona'
+2024-01-29 10:48:09,410 - INCIDENCIAS - ERROR - Excepción de ejecución en <module> : 'Zona'
+2024-01-29 10:48:40,934 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-01-29 10:48:40
+2024-01-29 10:48:41,157 - INCIDENCIAS - ERROR - Excepción de ejecución en run_filtro : 'Zona'
+2024-01-29 10:48:41,157 - INCIDENCIAS - ERROR - Excepción de ejecución en <module> : 'Zona'
+2024-01-29 10:56:51,798 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-01-29 10:56:51
+2024-01-29 11:01:10,561 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-01-29 11:01:10
+2024-01-29 11:01:10,859 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-01-29 13:56:52,509 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-01-29 13:56:52
+2024-01-29 13:56:53,560 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-01-31 08:16:43,476 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-01-31 08:16:43
+2024-01-31 08:16:44,796 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-02-03 07:15:59,665 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-02-03 07:15:59
+2024-02-03 07:16:01,132 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-02-05 06:22:54,033 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-02-05 06:22:54
+2024-02-05 06:22:55,096 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-02-06 08:41:11,133 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-02-06 08:41:11
+2024-02-06 08:41:12,176 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-02-07 07:21:19,724 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-02-07 07:21:19
+2024-02-07 07:21:20,959 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-02-08 06:41:16,339 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-02-08 06:41:16
+2024-02-08 06:41:16,670 - INCIDENCIAS - ERROR - Excepción de ejecución en get_df_excel : 'Duración RS'
+2024-02-08 06:41:16,670 - INCIDENCIAS - ERROR - Excepción de ejecución en filter_report : 'Duración RS'
+2024-02-08 06:41:16,670 - INCIDENCIAS - ERROR - Excepción de ejecución en run_filtro : 'Duración RS'
+2024-02-08 06:41:16,670 - INCIDENCIAS - ERROR - Excepción de ejecución en <module> : 'Duración RS'
+2024-02-09 06:58:35,293 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-02-09 06:58:35
+2024-02-09 06:58:36,522 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-02-13 08:04:47,165 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-02-13 08:04:47
+2024-02-13 08:04:48,164 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-02-14 06:40:43,151 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-02-14 06:40:43
+2024-02-14 06:40:44,070 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-02-15 07:18:23,475 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-02-15 07:18:23
+2024-02-15 07:18:24,437 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-02-16 06:26:22,942 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-02-16 06:26:22
+2024-02-16 06:26:24,427 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-02-17 07:36:47,539 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-02-17 07:36:47
+2024-02-17 07:36:48,641 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-02-20 08:54:54,568 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-02-20 08:54:54
+2024-02-20 08:54:56,013 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-02-21 07:46:51,721 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-02-21 07:46:51
+2024-02-21 07:46:52,771 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-02-22 07:49:17,528 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-02-22 07:49:17
+2024-02-22 07:49:18,509 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-02-23 08:17:19,669 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-02-23 08:17:19
+2024-02-23 08:17:20,889 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-02-27 05:51:02,905 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-02-27 05:51:02
+2024-02-27 05:51:04,412 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-03-02 06:29:49,074 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-03-02 06:29:49
+2024-03-02 06:29:50,699 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-03-04 07:06:54,482 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-03-04 07:06:54
+2024-03-04 07:06:55,871 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-03-05 06:24:59,325 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-03-05 06:24:59
+2024-03-05 06:25:00,666 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-03-06 06:38:05,033 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-03-06 06:38:05
+2024-03-06 06:38:06,501 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-03-08 06:37:50,717 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-03-08 06:37:50
+2024-03-08 06:37:51,083 - INCIDENCIAS - ERROR - Excepción de ejecución en get_df_excel : [Errno 2] No such file or directory: 'D:\\\\ises-dds\\\\APLICACIONES_ISES\\\\Incidencias_CF_FM\\\\filtro\\\\CARGA_INFORME\\INFORME.xls'
+2024-03-08 06:37:51,083 - INCIDENCIAS - ERROR - Excepción de ejecución en filter_report : [Errno 2] No such file or directory: 'D:\\\\ises-dds\\\\APLICACIONES_ISES\\\\Incidencias_CF_FM\\\\filtro\\\\CARGA_INFORME\\INFORME.xls'
+2024-03-08 06:37:51,083 - INCIDENCIAS - ERROR - Excepción de ejecución en run_filtro : [Errno 2] No such file or directory: 'D:\\\\ises-dds\\\\APLICACIONES_ISES\\\\Incidencias_CF_FM\\\\filtro\\\\CARGA_INFORME\\INFORME.xls'
+2024-03-08 06:37:51,083 - INCIDENCIAS - ERROR - Excepción de ejecución en <module> : [Errno 2] No such file or directory: 'D:\\\\ises-dds\\\\APLICACIONES_ISES\\\\Incidencias_CF_FM\\\\filtro\\\\CARGA_INFORME\\INFORME.xls'
+2024-03-08 06:38:48,599 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-03-08 06:38:48
+2024-03-08 06:38:49,602 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-03-09 07:30:28,902 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-03-09 07:30:28
+2024-03-09 07:30:30,235 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-03-09 07:33:24,453 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-03-09 07:33:24
+2024-03-09 07:33:25,282 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-03-11 06:18:13,861 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-03-11 06:18:13
+2024-03-11 06:18:15,167 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-03-12 08:14:42,329 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-03-12 08:14:42
+2024-03-12 08:14:43,615 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-03-13 06:15:33,261 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-03-13 06:15:33
+2024-03-13 06:15:34,673 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-03-14 06:26:44,960 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-03-14 06:26:44
+2024-03-14 06:26:45,772 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-03-15 08:33:17,470 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-03-15 08:33:17
+2024-03-15 08:33:18,847 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-03-16 08:17:56,883 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-03-16 08:17:56
+2024-03-16 08:17:58,186 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-03-18 06:15:12,923 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-03-18 06:15:12
+2024-03-18 06:15:14,436 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-03-19 06:30:41,665 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-03-19 06:30:41
+2024-03-19 06:30:43,061 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-03-20 08:58:13,547 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-03-20 08:58:13
+2024-03-20 08:58:14,819 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-03-21 06:38:33,887 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-03-21 06:38:33
+2024-03-21 06:38:35,478 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-03-22 07:52:12,223 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-03-22 07:52:12
+2024-03-22 07:52:14,005 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-03-23 06:41:10,497 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-03-23 06:41:10
+2024-03-23 06:41:11,784 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-03-25 07:34:35,146 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-03-25 07:34:35
+2024-03-25 07:34:35,445 - INCIDENCIAS - ERROR - Excepción de ejecución en get_df_excel : [Errno 2] No such file or directory: 'D:\\\\ises-dds\\\\APLICACIONES_ISES\\\\Incidencias_CF_FM\\\\filtro\\\\CARGA_INFORME\\INFORME.xls'
+2024-03-25 07:34:35,445 - INCIDENCIAS - ERROR - Excepción de ejecución en filter_report : [Errno 2] No such file or directory: 'D:\\\\ises-dds\\\\APLICACIONES_ISES\\\\Incidencias_CF_FM\\\\filtro\\\\CARGA_INFORME\\INFORME.xls'
+2024-03-25 07:34:35,445 - INCIDENCIAS - ERROR - Excepción de ejecución en run_filtro : [Errno 2] No such file or directory: 'D:\\\\ises-dds\\\\APLICACIONES_ISES\\\\Incidencias_CF_FM\\\\filtro\\\\CARGA_INFORME\\INFORME.xls'
+2024-03-25 07:34:35,445 - INCIDENCIAS - ERROR - Excepción de ejecución en <module> : [Errno 2] No such file or directory: 'D:\\\\ises-dds\\\\APLICACIONES_ISES\\\\Incidencias_CF_FM\\\\filtro\\\\CARGA_INFORME\\INFORME.xls'
+2024-03-25 07:36:00,189 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-03-25 07:36:00
+2024-03-25 07:36:01,505 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-03-26 06:37:36,304 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-03-26 06:37:36
+2024-03-26 06:37:37,524 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-03-27 08:39:55,575 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-03-27 08:39:55
+2024-03-27 08:39:56,755 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-03-28 07:57:35,611 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-03-28 07:57:35
+2024-03-28 07:57:37,055 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-04-01 06:20:26,139 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-04-01 06:20:26
+2024-04-01 06:20:27,710 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-04-04 06:29:36,861 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-04-04 06:29:36
+2024-04-04 06:29:38,652 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-04-04 08:05:53,137 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-04-04 08:05:53
+2024-04-04 08:05:54,350 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-04-05 15:50:28,218 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-04-05 15:50:28
+2024-04-05 15:50:28,841 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-04-05 15:55:44,872 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-04-05 15:55:44
+2024-04-05 15:55:45,551 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-04-06 08:38:38,057 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-04-06 08:38:38
+2024-04-06 08:38:38,977 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-04-09 06:39:39,048 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-04-09 06:39:39
+2024-04-09 06:39:39,920 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-04-10 06:16:57,558 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-04-10 06:16:57
+2024-04-10 06:16:58,309 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-04-11 08:08:44,062 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-04-11 08:08:44
+2024-04-11 08:08:45,459 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-04-13 07:42:41,227 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-04-13 07:42:41
+2024-04-13 07:42:42,121 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-04-16 06:22:59,719 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-04-16 06:22:59
+2024-04-16 06:23:01,278 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-04-17 10:43:13,366 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-04-17 10:43:13
+2024-04-17 10:43:14,645 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-04-20 07:43:03,117 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-04-20 07:43:03
+2024-04-20 07:43:04,339 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-04-22 06:20:10,472 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-04-22 06:20:10
+2024-04-22 06:20:11,090 - INCIDENCIAS - ERROR - Excepción de ejecución en get_df_excel : 'Duración RS'
+2024-04-22 06:20:11,090 - INCIDENCIAS - ERROR - Excepción de ejecución en filter_report : 'Duración RS'
+2024-04-22 06:20:11,090 - INCIDENCIAS - ERROR - Excepción de ejecución en run_filtro : 'Duración RS'
+2024-04-22 06:20:11,091 - INCIDENCIAS - ERROR - Excepción de ejecución en <module> : 'Duración RS'
+2024-04-22 06:21:29,345 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-04-22 06:21:29
+2024-04-22 06:21:30,995 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-04-25 07:46:36,697 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-04-25 07:46:36
+2024-04-25 07:46:38,325 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-04-26 16:00:10,306 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-04-26 16:00:10
+2024-04-26 16:00:11,567 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-04-26 16:20:28,689 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-04-26 16:20:28
+2024-04-26 16:20:29,557 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-04-30 07:17:38,044 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-04-30 07:17:38
+2024-04-30 07:17:39,660 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-05-02 07:35:28,396 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-05-02 07:35:28
+2024-05-02 07:35:29,890 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-05-03 06:32:50,794 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-05-03 06:32:50
+2024-05-03 06:32:52,067 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-05-04 07:54:12,260 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-05-04 07:54:12
+2024-05-04 07:54:13,452 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-05-06 06:18:55,345 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-05-06 06:18:55
+2024-05-06 06:18:56,662 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-05-07 06:10:03,416 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-05-07 06:10:03
+2024-05-07 06:10:04,686 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-05-07 16:18:39,468 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-05-07 16:18:39
+2024-05-07 16:18:39,819 - INCIDENCIAS - ERROR - Excepción de ejecución en get_df_excel : 'Duración RS'
+2024-05-07 16:18:39,819 - INCIDENCIAS - ERROR - Excepción de ejecución en filter_report : 'Duración RS'
+2024-05-07 16:18:39,819 - INCIDENCIAS - ERROR - Excepción de ejecución en run_filtro : 'Duración RS'
+2024-05-07 16:18:39,819 - INCIDENCIAS - ERROR - Excepción de ejecución en <module> : 'Duración RS'
+2024-05-07 16:20:03,385 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-05-07 16:20:03
+2024-05-07 16:20:03,744 - INCIDENCIAS - ERROR - Excepción de ejecución en get_df_excel : 'Duración RS'
+2024-05-07 16:20:03,744 - INCIDENCIAS - ERROR - Excepción de ejecución en filter_report : 'Duración RS'
+2024-05-07 16:20:03,744 - INCIDENCIAS - ERROR - Excepción de ejecución en run_filtro : 'Duración RS'
+2024-05-07 16:20:03,744 - INCIDENCIAS - ERROR - Excepción de ejecución en <module> : 'Duración RS'
+2024-05-07 16:22:52,166 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-05-07 16:22:52
+2024-05-07 16:22:52,541 - INCIDENCIAS - ERROR - Excepción de ejecución en get_df_excel : 'Duración RS'
+2024-05-07 16:22:52,541 - INCIDENCIAS - ERROR - Excepción de ejecución en filter_report : 'Duración RS'
+2024-05-07 16:22:52,541 - INCIDENCIAS - ERROR - Excepción de ejecución en run_filtro : 'Duración RS'
+2024-05-07 16:22:52,541 - INCIDENCIAS - ERROR - Excepción de ejecución en <module> : 'Duración RS'
+2024-05-07 16:28:29,959 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-05-07 16:28:29
+2024-05-07 16:28:31,354 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-05-08 06:20:05,472 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-05-08 06:20:05
+2024-05-08 06:20:06,581 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-05-08 12:37:18,574 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-05-08 12:37:18
+2024-05-08 12:37:19,419 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-05-08 13:07:01,887 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-05-08 13:07:01
+2024-05-08 13:07:02,383 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-05-08 14:27:52,816 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-05-08 14:27:52
+2024-05-08 14:27:53,333 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-05-08 14:27:55,375 - INCIDENCIAS - ERROR - Excepción de ejecución en files_processing : name 'timedelta' is not defined
+2024-05-08 14:27:55,376 - INCIDENCIAS - ERROR - Excepción de ejecución en <module> : name 'timedelta' is not defined
+2024-05-08 14:29:26,303 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-05-08 14:29:26
+2024-05-08 14:29:26,855 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-05-09 06:01:06,692 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-05-09 06:01:06
+2024-05-09 06:01:08,019 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-05-14 06:16:44,000 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-05-14 06:16:44
+2024-05-14 06:16:45,750 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-05-16 07:49:25,224 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-05-16 07:49:25
+2024-05-16 07:49:26,166 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-05-17 09:07:03,251 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-05-17 09:07:03
+2024-05-17 09:07:04,078 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-05-20 06:50:38,159 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-05-20 06:50:38
+2024-05-20 06:50:39,253 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-05-21 07:08:50,326 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-05-21 07:08:50
+2024-05-21 07:08:51,258 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-05-23 08:51:41,763 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-05-23 08:51:41
+2024-05-23 08:51:42,705 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-05-24 08:21:00,312 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-05-24 08:21:00
+2024-05-24 08:21:01,921 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-05-25 09:15:35,251 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-05-25 09:15:35
+2024-05-25 09:15:36,262 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-05-31 08:04:10,493 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-05-31 08:04:10
+2024-05-31 08:04:12,221 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-06-01 07:32:04,187 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-06-01 07:32:04
+2024-06-01 07:32:05,607 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-06-03 07:24:27,870 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-06-03 07:24:27
+2024-06-03 07:24:29,491 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-06-04 06:31:32,569 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-06-04 06:31:32
+2024-06-04 06:31:33,807 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-06-05 13:58:38,030 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-06-05 13:58:38
+2024-06-05 13:58:39,601 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-06-06 10:02:20,422 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-06-06 10:02:20
+2024-06-06 10:02:22,266 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-06-07 08:43:56,481 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-06-07 08:43:56
+2024-06-07 08:43:57,847 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-06-10 07:26:44,743 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-06-10 07:26:44
+2024-06-10 07:26:46,189 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-06-11 06:22:53,296 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-06-11 06:22:53
+2024-06-11 06:22:54,138 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-06-17 06:20:59,998 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-06-17 06:20:59
+2024-06-17 06:21:01,686 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-06-18 07:06:59,372 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-06-18 07:06:59
+2024-06-18 07:07:00,294 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-06-20 06:11:08,385 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-06-20 06:11:08
+2024-06-20 06:11:10,113 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-06-21 06:45:04,081 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-06-21 06:45:04
+2024-06-21 06:45:05,553 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-06-22 06:50:56,206 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-06-22 06:50:56
+2024-06-22 06:50:57,095 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-06-24 07:31:47,449 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-06-24 07:31:47
+2024-06-24 07:31:48,417 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-06-25 06:16:22,551 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-06-25 06:16:22
+2024-06-25 06:16:23,537 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-06-26 06:43:51,419 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-06-26 06:43:51
+2024-06-26 06:43:52,484 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-06-28 08:01:13,898 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-06-28 08:01:13
+2024-06-28 08:01:15,598 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-06-28 12:17:13,417 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-06-28 12:17:13
+2024-06-28 12:17:13,940 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-06-28 14:41:11,905 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-06-28 14:41:11
+2024-06-28 14:43:30,077 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-06-28 14:43:30
+2024-06-28 14:43:30,579 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-06-28 15:14:30,162 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-06-28 15:14:30
+2024-06-28 15:14:30,849 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-06-29 08:31:53,840 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-06-29 08:31:53
+2024-06-29 08:31:54,958 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-07-02 06:52:07,812 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-07-02 06:52:07
+2024-07-02 06:52:09,516 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-07-03 07:04:50,231 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-07-03 07:04:50
+2024-07-03 07:04:51,292 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-07-04 10:22:07,552 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-07-04 10:22:07
+2024-07-04 10:22:09,266 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-07-05 07:29:47,727 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-07-05 07:29:47
+2024-07-05 07:29:48,769 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-07-06 07:00:53,650 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-07-06 07:00:53
+2024-07-06 07:00:54,779 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-07-08 07:24:04,076 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-07-08 07:24:04
+2024-07-08 07:24:05,221 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-07-09 07:17:28,717 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-07-09 07:17:28
+2024-07-09 07:17:29,481 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-07-10 07:54:50,509 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-07-10 07:54:50
+2024-07-10 07:54:51,316 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-07-13 07:14:18,774 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-07-13 07:14:18
+2024-07-13 07:14:20,397 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-07-15 06:47:23,987 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-07-15 06:47:23
+2024-07-15 06:47:25,588 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-07-17 06:22:59,901 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-07-17 06:22:59
+2024-07-17 06:23:01,601 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-07-19 08:12:32,118 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-07-19 08:12:32
+2024-07-19 08:12:32,764 - INCIDENCIAS - ERROR - Excepción de ejecución en get_df_excel : [Errno 2] No such file or directory: 'D:\\\\ises-dds\\\\APLICACIONES_ISES\\\\Incidencias_CF_FM\\\\filtro\\\\CARGA_INFORME\\INFORME.xls'
+2024-07-19 08:12:32,764 - INCIDENCIAS - ERROR - Excepción de ejecución en filter_report : [Errno 2] No such file or directory: 'D:\\\\ises-dds\\\\APLICACIONES_ISES\\\\Incidencias_CF_FM\\\\filtro\\\\CARGA_INFORME\\INFORME.xls'
+2024-07-19 08:12:32,764 - INCIDENCIAS - ERROR - Excepción de ejecución en run_filtro : [Errno 2] No such file or directory: 'D:\\\\ises-dds\\\\APLICACIONES_ISES\\\\Incidencias_CF_FM\\\\filtro\\\\CARGA_INFORME\\INFORME.xls'
+2024-07-19 08:12:32,764 - INCIDENCIAS - ERROR - Excepción de ejecución en <module> : [Errno 2] No such file or directory: 'D:\\\\ises-dds\\\\APLICACIONES_ISES\\\\Incidencias_CF_FM\\\\filtro\\\\CARGA_INFORME\\INFORME.xls'
+2024-07-19 08:13:09,636 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-07-19 08:13:09
+2024-07-19 08:13:09,699 - INCIDENCIAS - ERROR - Excepción de ejecución en get_df_excel : [Errno 2] No such file or directory: 'D:\\\\ises-dds\\\\APLICACIONES_ISES\\\\Incidencias_CF_FM\\\\filtro\\\\CARGA_INFORME\\INFORME.xls'
+2024-07-19 08:13:09,699 - INCIDENCIAS - ERROR - Excepción de ejecución en filter_report : [Errno 2] No such file or directory: 'D:\\\\ises-dds\\\\APLICACIONES_ISES\\\\Incidencias_CF_FM\\\\filtro\\\\CARGA_INFORME\\INFORME.xls'
+2024-07-19 08:13:09,699 - INCIDENCIAS - ERROR - Excepción de ejecución en run_filtro : [Errno 2] No such file or directory: 'D:\\\\ises-dds\\\\APLICACIONES_ISES\\\\Incidencias_CF_FM\\\\filtro\\\\CARGA_INFORME\\INFORME.xls'
+2024-07-19 08:13:09,699 - INCIDENCIAS - ERROR - Excepción de ejecución en <module> : [Errno 2] No such file or directory: 'D:\\\\ises-dds\\\\APLICACIONES_ISES\\\\Incidencias_CF_FM\\\\filtro\\\\CARGA_INFORME\\INFORME.xls'
+2024-07-19 08:15:04,621 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-07-19 08:15:04
+2024-07-19 08:15:04,683 - INCIDENCIAS - ERROR - Excepción de ejecución en get_df_excel : [Errno 2] No such file or directory: 'D:\\\\ises-dds\\\\APLICACIONES_ISES\\\\Incidencias_CF_FM\\\\filtro\\\\CARGA_INFORME\\INFORME.xls'
+2024-07-19 08:15:04,683 - INCIDENCIAS - ERROR - Excepción de ejecución en filter_report : [Errno 2] No such file or directory: 'D:\\\\ises-dds\\\\APLICACIONES_ISES\\\\Incidencias_CF_FM\\\\filtro\\\\CARGA_INFORME\\INFORME.xls'
+2024-07-19 08:15:04,683 - INCIDENCIAS - ERROR - Excepción de ejecución en run_filtro : [Errno 2] No such file or directory: 'D:\\\\ises-dds\\\\APLICACIONES_ISES\\\\Incidencias_CF_FM\\\\filtro\\\\CARGA_INFORME\\INFORME.xls'
+2024-07-19 08:15:04,683 - INCIDENCIAS - ERROR - Excepción de ejecución en <module> : [Errno 2] No such file or directory: 'D:\\\\ises-dds\\\\APLICACIONES_ISES\\\\Incidencias_CF_FM\\\\filtro\\\\CARGA_INFORME\\INFORME.xls'
+2024-07-19 08:15:48,813 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-07-19 08:15:48
+2024-07-19 08:15:48,877 - INCIDENCIAS - ERROR - Excepción de ejecución en get_df_excel : [Errno 2] No such file or directory: 'D:\\\\ises-dds\\\\APLICACIONES_ISES\\\\Incidencias_CF_FM\\\\filtro\\\\CARGA_INFORME\\INFORME.xls'
+2024-07-19 08:15:48,877 - INCIDENCIAS - ERROR - Excepción de ejecución en filter_report : [Errno 2] No such file or directory: 'D:\\\\ises-dds\\\\APLICACIONES_ISES\\\\Incidencias_CF_FM\\\\filtro\\\\CARGA_INFORME\\INFORME.xls'
+2024-07-19 08:15:48,877 - INCIDENCIAS - ERROR - Excepción de ejecución en run_filtro : [Errno 2] No such file or directory: 'D:\\\\ises-dds\\\\APLICACIONES_ISES\\\\Incidencias_CF_FM\\\\filtro\\\\CARGA_INFORME\\INFORME.xls'
+2024-07-19 08:15:48,877 - INCIDENCIAS - ERROR - Excepción de ejecución en <module> : [Errno 2] No such file or directory: 'D:\\\\ises-dds\\\\APLICACIONES_ISES\\\\Incidencias_CF_FM\\\\filtro\\\\CARGA_INFORME\\INFORME.xls'
+2024-07-19 08:16:19,830 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-07-19 08:16:19
+2024-07-19 08:16:19,902 - INCIDENCIAS - ERROR - Excepción de ejecución en get_df_excel : [Errno 2] No such file or directory: 'D:\\\\ises-dds\\\\APLICACIONES_ISES\\\\Incidencias_CF_FM\\\\filtro\\\\CARGA_INFORME\\INFORME.xls'
+2024-07-19 08:16:19,902 - INCIDENCIAS - ERROR - Excepción de ejecución en filter_report : [Errno 2] No such file or directory: 'D:\\\\ises-dds\\\\APLICACIONES_ISES\\\\Incidencias_CF_FM\\\\filtro\\\\CARGA_INFORME\\INFORME.xls'
+2024-07-19 08:16:19,902 - INCIDENCIAS - ERROR - Excepción de ejecución en run_filtro : [Errno 2] No such file or directory: 'D:\\\\ises-dds\\\\APLICACIONES_ISES\\\\Incidencias_CF_FM\\\\filtro\\\\CARGA_INFORME\\INFORME.xls'
+2024-07-19 08:16:19,902 - INCIDENCIAS - ERROR - Excepción de ejecución en <module> : [Errno 2] No such file or directory: 'D:\\\\ises-dds\\\\APLICACIONES_ISES\\\\Incidencias_CF_FM\\\\filtro\\\\CARGA_INFORME\\INFORME.xls'
+2024-07-19 08:17:16,506 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-07-19 08:17:16
+2024-07-19 08:17:17,683 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-07-19 08:18:15,168 - INCIDENCIAS - ERROR - Excepción de ejecución en files_processing : strptime() argument 1 must be str, not Timestamp
+2024-07-19 08:18:15,168 - INCIDENCIAS - ERROR - Excepción de ejecución en <module> : strptime() argument 1 must be str, not Timestamp
+2024-07-19 08:20:23,392 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-07-19 08:20:23
+2024-07-19 08:20:24,222 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-07-19 08:21:21,982 - INCIDENCIAS - ERROR - Excepción de ejecución en files_processing : strptime() argument 1 must be str, not Timestamp
+2024-07-19 08:21:21,982 - INCIDENCIAS - ERROR - Excepción de ejecución en <module> : strptime() argument 1 must be str, not Timestamp
+2024-07-22 06:27:18,860 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-07-22 06:27:18
+2024-07-22 06:27:19,408 - INCIDENCIAS - ERROR - Excepción de ejecución en get_df_excel : [Errno 2] No such file or directory: 'D:\\\\ises-dds\\\\APLICACIONES_ISES\\\\Incidencias_CF_FM\\\\filtro\\\\CARGA_INFORME\\INFORME.xls'
+2024-07-22 06:27:19,408 - INCIDENCIAS - ERROR - Excepción de ejecución en filter_report : [Errno 2] No such file or directory: 'D:\\\\ises-dds\\\\APLICACIONES_ISES\\\\Incidencias_CF_FM\\\\filtro\\\\CARGA_INFORME\\INFORME.xls'
+2024-07-22 06:27:19,408 - INCIDENCIAS - ERROR - Excepción de ejecución en run_filtro : [Errno 2] No such file or directory: 'D:\\\\ises-dds\\\\APLICACIONES_ISES\\\\Incidencias_CF_FM\\\\filtro\\\\CARGA_INFORME\\INFORME.xls'
+2024-07-22 06:27:19,408 - INCIDENCIAS - ERROR - Excepción de ejecución en <module> : [Errno 2] No such file or directory: 'D:\\\\ises-dds\\\\APLICACIONES_ISES\\\\Incidencias_CF_FM\\\\filtro\\\\CARGA_INFORME\\INFORME.xls'
+2024-07-22 06:28:51,385 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-07-22 06:28:51
+2024-07-22 06:28:52,477 - INCIDENCIAS - ERROR - Excepción de ejecución en filter_report : argument of type 'int' is not iterable
+2024-07-22 06:28:52,477 - INCIDENCIAS - ERROR - Excepción de ejecución en run_filtro : argument of type 'int' is not iterable
+2024-07-22 06:28:52,477 - INCIDENCIAS - ERROR - Excepción de ejecución en <module> : argument of type 'int' is not iterable
+2024-07-22 09:05:18,001 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-07-22 09:05:18
+2024-07-22 09:05:18,736 - INCIDENCIAS - ERROR - Excepción de ejecución en filter_report : argument of type 'int' is not iterable
+2024-07-22 09:05:18,736 - INCIDENCIAS - ERROR - Excepción de ejecución en run_filtro : argument of type 'int' is not iterable
+2024-07-22 09:05:18,736 - INCIDENCIAS - ERROR - Excepción de ejecución en <module> : argument of type 'int' is not iterable
+2024-07-22 09:19:36,099 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-07-22 09:19:36
+2024-07-22 09:19:40,831 - INCIDENCIAS - ERROR - Excepción de ejecución en filter_report : argument of type 'int' is not iterable
+2024-07-22 09:19:40,831 - INCIDENCIAS - ERROR - Excepción de ejecución en run_filtro : argument of type 'int' is not iterable
+2024-07-22 09:19:40,831 - INCIDENCIAS - ERROR - Excepción de ejecución en <module> : argument of type 'int' is not iterable
+2024-07-22 09:28:47,605 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-07-22 09:28:47
+2024-07-22 09:28:51,551 - INCIDENCIAS - ERROR - Excepción de ejecución en filter_report : argument of type 'int' is not iterable
+2024-07-22 09:28:51,551 - INCIDENCIAS - ERROR - Excepción de ejecución en run_filtro : argument of type 'int' is not iterable
+2024-07-22 09:28:51,551 - INCIDENCIAS - ERROR - Excepción de ejecución en <module> : argument of type 'int' is not iterable
+2024-07-22 09:35:27,403 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-07-22 09:35:27
+2024-07-22 09:35:28,446 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-07-22 09:37:26,646 - INCIDENCIAS - ERROR - Excepción de ejecución en files_processing : strptime() argument 1 must be str, not Timestamp
+2024-07-22 09:37:26,646 - INCIDENCIAS - ERROR - Excepción de ejecución en <module> : strptime() argument 1 must be str, not Timestamp
+2024-07-22 09:56:34,146 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-07-22 09:56:34
+2024-07-22 09:56:35,184 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-07-22 11:20:55,689 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-07-22 11:20:55
+2024-07-22 11:20:56,548 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-07-22 11:38:32,837 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-07-22 11:38:32
+2024-07-22 11:38:34,015 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-07-22 11:55:18,307 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-07-22 11:55:18
+2024-07-22 11:55:19,258 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-07-23 06:32:36,623 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-07-23 06:32:36
+2024-07-23 06:32:36,702 - INCIDENCIAS - ERROR - Excepción de ejecución en get_df_excel : [Errno 2] No such file or directory: 'D:\\\\ises-dds\\\\APLICACIONES_ISES\\\\Incidencias_CF_FM\\\\filtro\\\\CARGA_INFORME\\INFORME.xls'
+2024-07-23 06:32:36,702 - INCIDENCIAS - ERROR - Excepción de ejecución en filter_report : [Errno 2] No such file or directory: 'D:\\\\ises-dds\\\\APLICACIONES_ISES\\\\Incidencias_CF_FM\\\\filtro\\\\CARGA_INFORME\\INFORME.xls'
+2024-07-23 06:32:36,702 - INCIDENCIAS - ERROR - Excepción de ejecución en run_filtro : [Errno 2] No such file or directory: 'D:\\\\ises-dds\\\\APLICACIONES_ISES\\\\Incidencias_CF_FM\\\\filtro\\\\CARGA_INFORME\\INFORME.xls'
+2024-07-23 06:32:36,702 - INCIDENCIAS - ERROR - Excepción de ejecución en <module> : [Errno 2] No such file or directory: 'D:\\\\ises-dds\\\\APLICACIONES_ISES\\\\Incidencias_CF_FM\\\\filtro\\\\CARGA_INFORME\\INFORME.xls'
+2024-07-25 06:17:24,592 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-07-25 06:17:24
+2024-07-25 06:17:25,166 - INCIDENCIAS - ERROR - Excepción de ejecución en get_df_excel : [Errno 2] No such file or directory: 'D:\\\\ises-dds\\\\APLICACIONES_ISES\\\\Incidencias_CF_FM\\\\filtro\\\\CARGA_INFORME\\INFORME.xls'
+2024-07-25 06:17:25,166 - INCIDENCIAS - ERROR - Excepción de ejecución en filter_report : [Errno 2] No such file or directory: 'D:\\\\ises-dds\\\\APLICACIONES_ISES\\\\Incidencias_CF_FM\\\\filtro\\\\CARGA_INFORME\\INFORME.xls'
+2024-07-25 06:17:25,166 - INCIDENCIAS - ERROR - Excepción de ejecución en run_filtro : [Errno 2] No such file or directory: 'D:\\\\ises-dds\\\\APLICACIONES_ISES\\\\Incidencias_CF_FM\\\\filtro\\\\CARGA_INFORME\\INFORME.xls'
+2024-07-25 06:17:25,166 - INCIDENCIAS - ERROR - Excepción de ejecución en <module> : [Errno 2] No such file or directory: 'D:\\\\ises-dds\\\\APLICACIONES_ISES\\\\Incidencias_CF_FM\\\\filtro\\\\CARGA_INFORME\\INFORME.xls'
+2024-07-25 09:45:26,675 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-07-25 09:45:26
+2024-07-25 09:45:28,147 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-07-26 06:07:53,009 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-07-26 06:07:53
+2024-07-26 06:07:54,391 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-07-27 08:12:23,995 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-07-27 08:12:23
+2024-07-27 08:12:25,546 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-07-29 06:18:30,469 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-07-29 06:18:30
+2024-07-29 06:18:31,872 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-07-30 05:57:18,208 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-07-30 05:57:18
+2024-08-01 10:03:22,958 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-08-01 10:03:22
+2024-08-01 10:03:24,657 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-08-03 08:44:06,546 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-08-03 08:44:06
+2024-08-03 08:44:08,076 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-08-05 06:36:18,717 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-08-05 06:36:18
+2024-08-05 06:36:20,578 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-08-06 06:53:34,282 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-08-06 06:53:34
+2024-08-06 06:53:35,747 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-08-07 07:42:23,913 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-08-07 07:42:23
+2024-08-07 07:42:25,629 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-08-08 05:52:25,524 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-08-08 05:52:25
+2024-08-08 05:52:27,028 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-08-12 05:53:29,144 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-08-12 05:53:29
+2024-08-12 05:53:30,725 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-08-17 07:44:20,491 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-08-17 07:44:20
+2024-08-17 07:44:22,477 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-08-19 07:56:50,018 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-08-19 07:56:50
+2024-08-19 07:56:51,547 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-08-20 07:39:13,842 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-08-20 07:39:13
+2024-08-20 07:39:15,809 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-08-22 08:50:23,051 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-08-22 08:50:23
+2024-08-22 08:50:25,038 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-08-24 07:45:51,879 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-08-24 07:45:51
+2024-08-24 07:45:53,926 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-08-26 06:34:17,376 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-08-26 06:34:17
+2024-08-26 06:34:19,135 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-08-28 06:43:17,483 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-08-28 06:43:17
+2024-08-28 06:43:19,275 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-08-29 08:21:59,593 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-08-29 08:21:59
+2024-08-29 08:22:01,367 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-09-02 06:07:47,767 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-09-02 06:07:47
+2024-09-02 06:07:49,737 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-09-04 06:44:59,797 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-09-04 06:44:59
+2024-09-04 06:45:01,761 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-09-05 06:29:33,751 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-09-05 06:29:33
+2024-09-05 06:29:34,734 - INCIDENCIAS - ERROR - Excepción de ejecución en get_df_excel : 'Duración RS'
+2024-09-05 06:29:34,734 - INCIDENCIAS - ERROR - Excepción de ejecución en filter_report : 'Duración RS'
+2024-09-05 06:29:34,734 - INCIDENCIAS - ERROR - Excepción de ejecución en run_filtro : 'Duración RS'
+2024-09-05 06:29:34,734 - INCIDENCIAS - ERROR - Excepción de ejecución en <module> : 'Duración RS'
+2024-09-05 06:29:58,253 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-09-05 06:29:58
+2024-09-05 06:29:58,516 - INCIDENCIAS - ERROR - Excepción de ejecución en get_df_excel : 'Duración RS'
+2024-09-05 06:29:58,516 - INCIDENCIAS - ERROR - Excepción de ejecución en filter_report : 'Duración RS'
+2024-09-05 06:29:58,516 - INCIDENCIAS - ERROR - Excepción de ejecución en run_filtro : 'Duración RS'
+2024-09-05 06:29:58,516 - INCIDENCIAS - ERROR - Excepción de ejecución en <module> : 'Duración RS'
+2024-09-06 07:36:42,089 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-09-06 07:36:42
+2024-09-06 07:36:43,952 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-09-10 08:22:13,126 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-09-10 08:22:13
+2024-09-10 08:22:15,002 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-09-13 06:47:12,451 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-09-13 06:47:12
+2024-09-13 06:47:13,231 - INCIDENCIAS - ERROR - Excepción de ejecución en get_df_excel : 'Duración RS'
+2024-09-13 06:47:13,231 - INCIDENCIAS - ERROR - Excepción de ejecución en filter_report : 'Duración RS'
+2024-09-13 06:47:13,231 - INCIDENCIAS - ERROR - Excepción de ejecución en run_filtro : 'Duración RS'
+2024-09-13 06:47:13,231 - INCIDENCIAS - ERROR - Excepción de ejecución en <module> : 'Duración RS'
+2024-09-13 06:47:26,624 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-09-13 06:47:26
+2024-09-13 06:47:26,768 - INCIDENCIAS - ERROR - Excepción de ejecución en get_df_excel : 'Duración RS'
+2024-09-13 06:47:26,768 - INCIDENCIAS - ERROR - Excepción de ejecución en filter_report : 'Duración RS'
+2024-09-13 06:47:26,768 - INCIDENCIAS - ERROR - Excepción de ejecución en run_filtro : 'Duración RS'
+2024-09-13 06:47:26,768 - INCIDENCIAS - ERROR - Excepción de ejecución en <module> : 'Duración RS'
+2024-09-14 06:49:58,596 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-09-14 06:49:58
+2024-09-14 06:50:00,335 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-09-16 06:22:32,965 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-09-16 06:22:32
+2024-09-16 06:22:34,326 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-09-17 06:27:33,371 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-09-17 06:27:33
+2024-09-17 06:27:35,178 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-09-18 07:01:35,870 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-09-18 07:01:35
+2024-09-18 07:01:37,679 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-09-19 06:57:55,581 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-09-19 06:57:55
+2024-09-19 06:57:57,181 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-09-20 06:36:24,140 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-09-20 06:36:24
+2024-09-20 06:36:25,922 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-09-21 06:50:50,217 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-09-21 06:50:50
+2024-09-21 06:50:51,709 - INCIDENCIAS - ERROR - Excepción de ejecución en filter_report : 'Fecha Detección'
+2024-09-21 06:50:51,709 - INCIDENCIAS - ERROR - Excepción de ejecución en run_filtro : 'Fecha Detección'
+2024-09-21 06:50:51,709 - INCIDENCIAS - ERROR - Excepción de ejecución en <module> : 'Fecha Detección'
+2024-09-21 06:50:57,442 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-09-21 06:50:57
+2024-09-21 06:50:58,023 - INCIDENCIAS - ERROR - Excepción de ejecución en filter_report : 'Fecha Detección'
+2024-09-21 06:50:58,023 - INCIDENCIAS - ERROR - Excepción de ejecución en run_filtro : 'Fecha Detección'
+2024-09-21 06:50:58,023 - INCIDENCIAS - ERROR - Excepción de ejecución en <module> : 'Fecha Detección'
+2024-09-21 06:53:52,882 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-09-21 06:53:52
+2024-09-21 06:53:53,568 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-09-23 06:11:02,670 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-09-23 06:11:02
+2024-09-23 06:11:04,486 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-09-24 08:55:36,922 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-09-24 08:55:36
+2024-09-24 08:55:38,866 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-09-25 08:12:24,912 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-09-25 08:12:24
+2024-09-25 08:12:27,172 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-09-26 08:12:06,199 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-09-26 08:12:06
+2024-09-26 08:12:08,243 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-09-27 05:57:35,000 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-09-27 05:57:35
+2024-09-27 05:57:36,912 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-09-30 06:19:28,454 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-09-30 06:19:28
+2024-09-30 06:19:30,700 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-10-02 16:48:06,976 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-10-02 16:48:06
+2024-10-02 16:48:08,703 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-10-03 08:15:06,877 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-10-03 08:15:06
+2024-10-03 08:15:09,012 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-10-08 08:18:45,994 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-10-08 08:18:45
+2024-10-08 08:18:48,162 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-10-09 07:29:02,619 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-10-09 07:29:02
+2024-10-09 07:29:03,458 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-10-09 11:01:47,332 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-10-09 11:01:47
+2024-10-09 11:02:04,054 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-10-09 11:02:04
+2024-10-09 11:04:14,524 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-10-09 11:04:14
+2024-10-09 11:04:15,095 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-10-09 11:04:26,865 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-10-09 11:04:26
+2024-10-09 11:04:27,426 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-10-09 11:06:37,616 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-10-09 11:06:37
+2024-10-09 11:06:38,192 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-10-09 11:09:34,083 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-10-09 11:09:34
+2024-10-09 11:09:34,657 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-10-09 11:09:38,041 - INCIDENCIAS - ERROR - Excepción de ejecución en files_processing : 'prueba'
+2024-10-09 11:09:38,041 - INCIDENCIAS - ERROR - Excepción de ejecución en <module> : 'prueba'
+2024-10-09 11:10:50,489 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-10-09 11:10:50
+2024-10-09 11:10:51,101 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-10-09 11:10:54,490 - INCIDENCIAS - ERROR - Excepción de ejecución en files_processing : 'prueba'
+2024-10-09 11:10:54,490 - INCIDENCIAS - ERROR - Excepción de ejecución en <module> : 'prueba'
+2024-10-09 11:12:04,957 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-10-09 11:12:04
+2024-10-09 11:12:05,548 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-10-09 11:14:06,215 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-10-09 11:14:06
+2024-10-09 11:14:06,751 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-10-09 11:22:59,463 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-10-09 11:22:59
+2024-10-09 11:23:30,779 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-10-09 11:23:30
+2024-10-09 11:48:27,430 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-10-09 11:48:27
+2024-10-09 11:48:27,507 - INCIDENCIAS - ERROR - Excepción de ejecución en get_df_excel : [Errno 2] No such file or directory: 'D:\\\\ises-dds\\\\APLICACIONES_ISES\\\\Incidencias_CF_FM\\\\filtro\\\\CARGA_INFORME\\INFORME.xls'
+2024-10-09 11:48:27,507 - INCIDENCIAS - ERROR - Excepción de ejecución en filter_report : [Errno 2] No such file or directory: 'D:\\\\ises-dds\\\\APLICACIONES_ISES\\\\Incidencias_CF_FM\\\\filtro\\\\CARGA_INFORME\\INFORME.xls'
+2024-10-09 11:48:27,507 - INCIDENCIAS - ERROR - Excepción de ejecución en run_filtro : [Errno 2] No such file or directory: 'D:\\\\ises-dds\\\\APLICACIONES_ISES\\\\Incidencias_CF_FM\\\\filtro\\\\CARGA_INFORME\\INFORME.xls'
+2024-10-09 11:48:27,507 - INCIDENCIAS - ERROR - Excepción de ejecución en <module> : [Errno 2] No such file or directory: 'D:\\\\ises-dds\\\\APLICACIONES_ISES\\\\Incidencias_CF_FM\\\\filtro\\\\CARGA_INFORME\\INFORME.xls'
+2024-10-09 11:48:32,406 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-10-09 11:48:32
+2024-10-09 11:48:32,470 - INCIDENCIAS - ERROR - Excepción de ejecución en get_df_excel : [Errno 2] No such file or directory: 'D:\\\\ises-dds\\\\APLICACIONES_ISES\\\\Incidencias_CF_FM\\\\filtro\\\\CARGA_INFORME\\INFORME.xls'
+2024-10-09 11:48:32,470 - INCIDENCIAS - ERROR - Excepción de ejecución en filter_report : [Errno 2] No such file or directory: 'D:\\\\ises-dds\\\\APLICACIONES_ISES\\\\Incidencias_CF_FM\\\\filtro\\\\CARGA_INFORME\\INFORME.xls'
+2024-10-09 11:48:32,470 - INCIDENCIAS - ERROR - Excepción de ejecución en run_filtro : [Errno 2] No such file or directory: 'D:\\\\ises-dds\\\\APLICACIONES_ISES\\\\Incidencias_CF_FM\\\\filtro\\\\CARGA_INFORME\\INFORME.xls'
+2024-10-09 11:48:32,470 - INCIDENCIAS - ERROR - Excepción de ejecución en <module> : [Errno 2] No such file or directory: 'D:\\\\ises-dds\\\\APLICACIONES_ISES\\\\Incidencias_CF_FM\\\\filtro\\\\CARGA_INFORME\\INFORME.xls'
+2024-10-09 11:48:51,899 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-10-09 11:48:51
+2024-10-09 11:48:51,961 - INCIDENCIAS - ERROR - Excepción de ejecución en get_df_excel : [Errno 2] No such file or directory: 'D:\\\\ises-dds\\\\APLICACIONES_ISES\\\\Incidencias_CF_FM\\\\filtro\\\\CARGA_INFORME\\INFORME.xls'
+2024-10-09 11:48:51,961 - INCIDENCIAS - ERROR - Excepción de ejecución en filter_report : [Errno 2] No such file or directory: 'D:\\\\ises-dds\\\\APLICACIONES_ISES\\\\Incidencias_CF_FM\\\\filtro\\\\CARGA_INFORME\\INFORME.xls'
+2024-10-09 11:48:51,961 - INCIDENCIAS - ERROR - Excepción de ejecución en run_filtro : [Errno 2] No such file or directory: 'D:\\\\ises-dds\\\\APLICACIONES_ISES\\\\Incidencias_CF_FM\\\\filtro\\\\CARGA_INFORME\\INFORME.xls'
+2024-10-09 11:48:51,961 - INCIDENCIAS - ERROR - Excepción de ejecución en <module> : [Errno 2] No such file or directory: 'D:\\\\ises-dds\\\\APLICACIONES_ISES\\\\Incidencias_CF_FM\\\\filtro\\\\CARGA_INFORME\\INFORME.xls'
+2024-10-09 11:49:21,943 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-10-09 11:49:21
+2024-10-09 11:49:22,007 - INCIDENCIAS - ERROR - Excepción de ejecución en get_df_excel : [Errno 2] No such file or directory: 'D:\\\\ises-dds\\\\APLICACIONES_ISES\\\\Incidencias_CF_FM\\\\filtro\\\\CARGA_INFORME\\INFORME.xls'
+2024-10-09 11:49:22,007 - INCIDENCIAS - ERROR - Excepción de ejecución en filter_report : [Errno 2] No such file or directory: 'D:\\\\ises-dds\\\\APLICACIONES_ISES\\\\Incidencias_CF_FM\\\\filtro\\\\CARGA_INFORME\\INFORME.xls'
+2024-10-09 11:49:22,007 - INCIDENCIAS - ERROR - Excepción de ejecución en run_filtro : [Errno 2] No such file or directory: 'D:\\\\ises-dds\\\\APLICACIONES_ISES\\\\Incidencias_CF_FM\\\\filtro\\\\CARGA_INFORME\\INFORME.xls'
+2024-10-09 11:49:22,007 - INCIDENCIAS - ERROR - Excepción de ejecución en <module> : [Errno 2] No such file or directory: 'D:\\\\ises-dds\\\\APLICACIONES_ISES\\\\Incidencias_CF_FM\\\\filtro\\\\CARGA_INFORME\\INFORME.xls'
+2024-10-09 11:51:12,130 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-10-09 11:51:12
+2024-10-09 11:51:12,194 - INCIDENCIAS - ERROR - Excepción de ejecución en get_df_excel : [Errno 2] No such file or directory: 'D:\\\\ises-dds\\\\APLICACIONES_ISES\\\\Incidencias_CF_FM\\\\filtro\\\\CARGA_INFORME\\INFORME.xls'
+2024-10-09 11:51:12,194 - INCIDENCIAS - ERROR - Excepción de ejecución en filter_report : [Errno 2] No such file or directory: 'D:\\\\ises-dds\\\\APLICACIONES_ISES\\\\Incidencias_CF_FM\\\\filtro\\\\CARGA_INFORME\\INFORME.xls'
+2024-10-09 11:51:12,194 - INCIDENCIAS - ERROR - Excepción de ejecución en run_filtro : [Errno 2] No such file or directory: 'D:\\\\ises-dds\\\\APLICACIONES_ISES\\\\Incidencias_CF_FM\\\\filtro\\\\CARGA_INFORME\\INFORME.xls'
+2024-10-09 11:51:12,194 - INCIDENCIAS - ERROR - Excepción de ejecución en <module> : [Errno 2] No such file or directory: 'D:\\\\ises-dds\\\\APLICACIONES_ISES\\\\Incidencias_CF_FM\\\\filtro\\\\CARGA_INFORME\\INFORME.xls'
+2024-10-09 11:57:51,573 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-10-09 11:57:51
+2024-10-09 11:57:51,637 - INCIDENCIAS - ERROR - Excepción de ejecución en get_df_excel : [Errno 2] No such file or directory: 'D:\\\\ises-dds\\\\APLICACIONES_ISES\\\\Incidencias_CF_FM\\\\filtro\\\\CARGA_INFORME\\INFORME.xls'
+2024-10-09 11:57:51,637 - INCIDENCIAS - ERROR - Excepción de ejecución en filter_report : [Errno 2] No such file or directory: 'D:\\\\ises-dds\\\\APLICACIONES_ISES\\\\Incidencias_CF_FM\\\\filtro\\\\CARGA_INFORME\\INFORME.xls'
+2024-10-09 11:57:51,637 - INCIDENCIAS - ERROR - Excepción de ejecución en run_filtro : [Errno 2] No such file or directory: 'D:\\\\ises-dds\\\\APLICACIONES_ISES\\\\Incidencias_CF_FM\\\\filtro\\\\CARGA_INFORME\\INFORME.xls'
+2024-10-09 11:57:51,637 - INCIDENCIAS - ERROR - Excepción de ejecución en <module> : [Errno 2] No such file or directory: 'D:\\\\ises-dds\\\\APLICACIONES_ISES\\\\Incidencias_CF_FM\\\\filtro\\\\CARGA_INFORME\\INFORME.xls'
+2024-10-09 11:58:50,870 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-10-09 11:58:50
+2024-10-09 11:58:50,945 - INCIDENCIAS - ERROR - Excepción de ejecución en get_df_excel : [Errno 2] No such file or directory: 'D:\\\\ises-dds\\\\APLICACIONES_ISES\\\\Incidencias_CF_FM\\\\filtro\\\\CARGA_INFORME\\INFORME.xls'
+2024-10-09 11:58:50,945 - INCIDENCIAS - ERROR - Excepción de ejecución en filter_report : [Errno 2] No such file or directory: 'D:\\\\ises-dds\\\\APLICACIONES_ISES\\\\Incidencias_CF_FM\\\\filtro\\\\CARGA_INFORME\\INFORME.xls'
+2024-10-09 11:58:50,945 - INCIDENCIAS - ERROR - Excepción de ejecución en run_filtro : [Errno 2] No such file or directory: 'D:\\\\ises-dds\\\\APLICACIONES_ISES\\\\Incidencias_CF_FM\\\\filtro\\\\CARGA_INFORME\\INFORME.xls'
+2024-10-09 11:58:50,945 - INCIDENCIAS - ERROR - Excepción de ejecución en <module> : [Errno 2] No such file or directory: 'D:\\\\ises-dds\\\\APLICACIONES_ISES\\\\Incidencias_CF_FM\\\\filtro\\\\CARGA_INFORME\\INFORME.xls'
+2024-10-09 12:02:04,157 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-10-09 12:02:04
+2024-10-09 12:02:04,721 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-10-09 12:03:21,748 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-10-09 12:03:21
+2024-10-09 12:03:22,309 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-10-09 12:07:44,445 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-10-09 12:07:44
+2024-10-09 12:07:45,029 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-10-10 09:48:42,839 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-10-10 09:48:42
+2024-10-10 09:49:39,159 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-10-10 09:49:39
+2024-10-10 09:49:39,729 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-10-10 10:18:41,008 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-10-10 10:18:41
+2024-10-10 10:18:41,676 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-10-11 07:18:08,170 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-10-11 07:18:08
+2024-10-11 07:18:09,647 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-10-12 08:17:50,233 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-10-12 08:17:50
+2024-10-12 08:17:51,893 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-10-14 07:27:39,867 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-10-14 07:27:39
+2024-10-14 07:27:41,489 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-10-16 06:05:23,370 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-10-16 06:05:23
+2024-10-16 06:05:24,989 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-10-17 16:22:43,172 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-10-17 16:22:43
+2024-10-17 16:51:19,053 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-10-17 16:51:19
+2024-10-18 07:53:08,195 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-10-18 07:53:08
+2024-10-18 07:53:08,959 - INCIDENCIAS - ERROR - Excepción de ejecución en get_df_excel : 'Duración RS'
+2024-10-18 07:53:08,959 - INCIDENCIAS - ERROR - Excepción de ejecución en filter_report : 'Duración RS'
+2024-10-18 07:53:08,959 - INCIDENCIAS - ERROR - Excepción de ejecución en run_filtro : 'Duración RS'
+2024-10-18 07:53:08,959 - INCIDENCIAS - ERROR - Excepción de ejecución en <module> : 'Duración RS'
+2024-10-18 08:32:39,753 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-10-18 08:32:39
+2024-10-18 08:32:40,022 - INCIDENCIAS - ERROR - Excepción de ejecución en get_df_excel : 'Duración RS'
+2024-10-18 08:32:40,022 - INCIDENCIAS - ERROR - Excepción de ejecución en filter_report : 'Duración RS'
+2024-10-18 08:32:40,022 - INCIDENCIAS - ERROR - Excepción de ejecución en run_filtro : 'Duración RS'
+2024-10-18 08:32:40,022 - INCIDENCIAS - ERROR - Excepción de ejecución en <module> : 'Duración RS'
+2024-10-18 08:41:53,772 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-10-18 08:41:53
+2024-10-18 08:41:53,960 - INCIDENCIAS - ERROR - Excepción de ejecución en get_df_excel : 'Duración RS'
+2024-10-18 08:41:53,960 - INCIDENCIAS - ERROR - Excepción de ejecución en filter_report : 'Duración RS'
+2024-10-18 08:41:53,960 - INCIDENCIAS - ERROR - Excepción de ejecución en run_filtro : 'Duración RS'
+2024-10-18 08:41:53,960 - INCIDENCIAS - ERROR - Excepción de ejecución en <module> : 'Duración RS'
+2024-10-18 08:43:53,323 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-10-18 08:43:53
+2024-10-18 08:43:54,522 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-10-19 06:32:31,767 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-10-19 06:32:31
+2024-10-19 06:32:33,452 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-10-21 05:53:43,937 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-10-21 05:53:43
+2024-10-21 05:53:45,782 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-10-22 11:17:53,470 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-10-22 11:17:53
+2024-10-22 11:17:55,463 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-10-23 10:01:30,165 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-10-23 10:01:30
+2024-10-23 10:01:32,016 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-10-24 05:57:29,048 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-10-24 05:57:29
+2024-10-24 05:57:30,858 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-10-25 15:39:35,291 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-10-25 15:39:35
+2024-10-25 15:39:37,033 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-10-26 07:23:31,150 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-10-26 07:23:31
+2024-10-26 07:23:32,000 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-10-29 06:02:43,523 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-10-29 06:02:43
+2024-10-29 06:02:44,376 - INCIDENCIAS - ERROR - Excepción de ejecución en get_df_excel : 'Duración RS'
+2024-10-29 06:02:44,376 - INCIDENCIAS - ERROR - Excepción de ejecución en filter_report : 'Duración RS'
+2024-10-29 06:02:44,376 - INCIDENCIAS - ERROR - Excepción de ejecución en run_filtro : 'Duración RS'
+2024-10-29 06:02:44,376 - INCIDENCIAS - ERROR - Excepción de ejecución en <module> : 'Duración RS'
+2024-10-29 06:03:02,314 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-10-29 06:03:02
+2024-10-29 06:03:02,543 - INCIDENCIAS - ERROR - Excepción de ejecución en get_df_excel : 'Duración RS'
+2024-10-29 06:03:02,543 - INCIDENCIAS - ERROR - Excepción de ejecución en filter_report : 'Duración RS'
+2024-10-29 06:03:02,543 - INCIDENCIAS - ERROR - Excepción de ejecución en run_filtro : 'Duración RS'
+2024-10-29 06:03:02,543 - INCIDENCIAS - ERROR - Excepción de ejecución en <module> : 'Duración RS'
+2024-10-29 06:04:53,447 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-10-29 06:04:53
+2024-10-29 06:04:54,657 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-10-30 06:16:15,543 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-10-30 06:16:15
+2024-10-30 06:16:16,474 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-10-31 14:40:59,262 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-10-31 14:40:59
+2024-10-31 14:41:00,409 - INCIDENCIAS - INFO - Diccionario de incidencias creado
+2024-11-02 08:13:37,687 - INCIDENCIAS - INFO - INICIO INCIDENCIAS: 2024-11-02 08:13:37
+2024-11-02 08:13:39,152 - INCIDENCIAS - INFO - Diccionario de incidencias creado

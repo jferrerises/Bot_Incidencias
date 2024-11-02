@@ -1,0 +1,34 @@
+{
+
+    "Oeste":{
+        "ambito":"PANAMA OESTE",
+        "analista":"Jesus Franco",
+            "email":"jfranco@ises.com.co",
+    "id_redmine":"447"
+    },
+    "Metro":{
+        "ambito":"PANAMA METRO",
+            "analista":"Jesus Franco",
+            "email":"jfranco@ises.com.co",
+    "id_redmine":"447"
+    },
+    "Central":{
+        "ambito":"CENTRAL",
+        "analista":"MARÍA CONCEPCIÓN SIMANCAS RODRIGUEZ",
+        "email":"msimancas@ises.com.co",
+"id_redmine":"401"
+    },
+    "Azuero":{
+        "ambito":"AZUERO",
+        "analista":"Heidy Zapata Arroyo",
+        "email":"hzapata@ises.com.co",
+"id_redmine":"437"
+    },
+    "Chiriquí":{
+        "ambito":"CHIRIQUI",
+        "analista":"Lina Jimenez",
+        "email":"ljimenezj@ises.com.co",
+    "id_redmine":"322"
+    }
+
+}

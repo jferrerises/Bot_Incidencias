@@ -1,0 +1,31 @@
+{
+    "fuerza mayor":{
+    "Terceros - Vandalismo":["Accidente causado por terceros debido a vandalismo"],
+    "Terceros - Objetos extranos en infraestructura":["infraestructura","objeto"],
+    "Terceros - Alambres/Conductores":["terceros","cliente","alambre"],
+    "Terceros - Cables Telefonicos/ Television por Cable/Otros Servicios":["cable"],
+    "Terceros-Trabajos en la via Publica con modificacion o traslado de las instalaciones o infraestructura":["Petición de tercero (reubicación, trabajo interno)","Mejora de calidad (Proyectos especiales)"],
+    "Terceros-Embestidas colisiones con daño a infraestructuras":["Accidente causado por terceros, colisión vehicular",""],
+    "Terceros- Poda de arboles no vinculada a la empresa":["poda","tala","arboles","no vinculada"],
+    "incendio":["Incendio"],
+    "solicitud por el cliente":["Petición de Suministro","Petición de agente de mercado "],
+    "Autorizado/Ordenado por ASEP o autoridad competente":["Instrucción de Autoridad","ACP"],
+    "Afectacion instalacines subterraneras- Obstruccion de desague":["obstrucción","desague"],
+    "Afectacion instalacines subterraneras- filtración por rotura de desague de agua":["rotura","agua","cliente"],
+    "Generacion, trasmision, CND":["ETESA"],
+    "Inaccesibilidad a las instalaciones del cliente":["cliente"],
+    "Otros":["Contaminación causada por terceros","Daño en instalación del Cliente"]
+    },
+    "caso fortuito":{
+    "Afectacion en instalacion por caidas de arboles":["caída","arbol"],
+    "Condiciones climaticas externas- Tornado":["tornado"],
+    "Condiciones climaticas externas- Vientos":["Fuertes Vientos"],
+    "Condiciones climaticas externas- Inundaciones":["inundación","clima","lluvia","inundaciones"],
+    "Condiciones climaticas externas- Temperaturas":["temperatura","alta","temperaturas"],
+    "Condiciones climaticas externas- Descargas atmosfericas":["Tormenta - Rayo"],
+    "Animales":["Animal"],
+    "Condiciones climaticas externas- Deslizamiento  de tierra o desplazamiento de otros materiales":["deslizamiento","tierra","materiales"],
+    "Condiciones climaticas externas- Terremoto":["terremoto"],
+    "Otros":["Mantenimiento de Red por daños de la naturaleza","Contaminación","Arbol podrido o deteriorado"]
+    }
+    }

@@ -1,0 +1,27 @@
+# Ignore Python bytecode files
+__pycache__/
+
+# Ignore virtual environment directories
+venv/
+env/
+*.pyc
+
+filtro/informe
+# Ignore the contents of the "ANEXOS" folder
+ANEXOS_TEMP/*
+
+# But don't ignore the "ANEXOS" folder itself
+!ANEXOS_TEMP/
+
+# Ignore the Pipenv or Poetry lock file if you're using these tools
+Pipfile.lock
+pyproject.toml
+
+# Ignore any local development settings (e.g., IDE-specific files)
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?

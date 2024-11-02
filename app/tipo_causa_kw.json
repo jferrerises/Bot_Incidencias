@@ -1,0 +1,30 @@
+{
+"fuerza mayor":{
+"Terceros - Vandalismo":["ilegales","hurto","vandalismo"],
+"Terceros - Objetos extranos en infraestructura":["infraestructura","objeto"],
+"Terceros - Alambres/Conductores":["terceros","cliente","alambre"],
+"Terceros - Cables Telefonicos/ Television por Cable/Otros Servicios":["cable"],
+"Terceros-Trabajos en la via Publica con modificacion o traslado de las instalaciones o infraestructura":["terceros","via","publica","instalaciones"],
+"Terceros-Embestidas colisiones con daño a infraestructuras":["poste","camión","colisión","vehicular","chocaron"],
+"Terceros- Poda de arboles no vinculada a la empresa":["tala","arboles","no vinculada"],
+"incendio":["incendio"],
+"solicitud por el cliente":["cliente","solicitud"],
+"Autorizado/Ordenado por ASEP o autoridad competente":["autoridad"],
+"Afectacion instalacines subterraneras- Obstruccion de desague":["obstrucción","desague"],
+"Afectacion instalacines subterraneras- filtración por rotura de desague de agua":["rotura","agua","cliente"],
+"Generacion, trasmision, CND":["generacion","transmision","ETESA","cnd"],
+"Inaccesibilidad a las instalaciones del cliente":["cliente"]
+},
+"caso fortuito":{
+"Afectacion en instalacion por caidas de arboles":["caída","arbol"],
+"Condiciones climaticas externas- Tornado":["tornado"],
+"Condiciones climaticas externas- Vientos":["fuertes","viento","vientos"],
+"Condiciones climaticas externas- Inundaciones":["inundación","clima","lluvia","inundaciones"],
+"Condiciones climaticas externas- Temperaturas":["temperatura","alta","temperaturas"],
+"Condiciones climaticas externas- Descargas atmosfericas":["rayo","tormenta","eléctrica"],
+"Animales":["animal","contacto","cortocircuito"],
+"Condiciones climaticas externas- Deslizamiento  de tierra o desplazamiento de otros materiales":["deslizamiento","tierra","materiales"],
+"Condiciones climaticas externas- Terremoto":["terremoto"],
+"Otros":["contaminación","árbol podrido","podrido","deterioro"]
+}
+}

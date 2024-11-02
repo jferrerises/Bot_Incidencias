@@ -1,0 +1,20 @@
+{"azuero":{
+    "email":"tecnico_azuero@ises.com.co",
+    "token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ0ZWNuaWNvX2F6dWVyb0Bpc2VzLmNvbS5jbyIsImV4cCI6MTc4ODI3MDk3MH0.LeMMYq-X1bVCdtvY2dJ01rrSEzpLbZyQqaoHpBkdY6o"
+},
+"central":{
+    "email":"tecnico_central@ises.com.co",
+    "token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ0ZWNuaWNvX2NlbnRyYWxAaXNlcy5jb20uY28iLCJleHAiOjE3ODgyNzA5MzZ9.a8sFcOCrq8aYTgB6BWSwmSuyUpMiCM2YT7gb6ozITjo"
+},
+"oeste":{
+    "email":"tecnico_panama@ises.com.co",
+    "token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ0ZWNuaWNvX3BhbmFtYUBpc2VzLmNvbS5jbyIsImV4cCI6MTc4NzY3MTc3Nn0.oN0UaUjhYTz1aWGzwDCdwGZTdvqaRVmjhBvxAH0W7sk"
+},
+"metro":{
+    "email":"tecnico_panama@ises.com.co",
+    "token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ0ZWNuaWNvX3BhbmFtYUBpc2VzLmNvbS5jbyIsImV4cCI6MTc4NzY3MTc3Nn0.oN0UaUjhYTz1aWGzwDCdwGZTdvqaRVmjhBvxAH0W7sk"
+},
+"chiriqui":{
+    "email":"tecnico_chiriqui@ises.com.co",
+    "token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ0ZWNuaWNvX2NoaXJpcXVpQGlzZXMuY29tLmNvIiwiZXhwIjoxNzg4MjcwODkzfQ.gSWsrh7eQgQWckZ_2cQoaisbI-w_AMyw0IkY1-ZpEkM"
+}}
